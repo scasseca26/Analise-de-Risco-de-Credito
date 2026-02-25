@@ -1,0 +1,1001 @@
+Movimentação na conta,Duração em meses,Histórico de pagamentos,Finalidade do crédito,Valor do crédito,Saldo em conta poupança/títulos,Emprego atual desde,Comprometimento de Renda,Estado civil e sexo,Outros devedores/garantidores,Residência atual desde,Bem/Propriedade Principal,Idade em anos,Parcelamento com terceiros,Forma de Moradia,Número de créditos existentes neste banco,Emprego,Número de dependentes,Possui Telefone,Trabalhador estrangeiro,Target
+< 0 $,6,conta critica / dividas com terceiros,radio ou televisao,1169,n/há,>= 7 anos,4,masc-solteiro,n/há,4,imovel,67,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),radio ou televisao,5951,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,imovel,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,conta critica / dividas com terceiros,educacao,2096,< 100 $,< 7 anos,2,masc-solteiro,n/há,3,imovel,49,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+< 0 $,42,pgto em dia neste banco (em aberto),moveis e equipamentos,7882,< 100 $,< 7 anos,2,masc-solteiro,garantidor,4,poupança ou seguro de vida,45,n/há,gratuita,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,24,pgto em atraso no passado,carro novo,4870,< 100 $,< 4 anos,3,masc-solteiro,n/há,4,n/há,53,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,36,pgto em dia neste banco (em aberto),educacao,9055,n/há,< 4 anos,2,masc-solteiro,n/há,4,n/há,35,n/há,gratuita,1,empregado-semformacao-residente,2,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),moveis e equipamentos,2835,>= 500 < 1000 $,>= 7 anos,3,masc-solteiro,n/há,4,poupança ou seguro de vida,53,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),carro usado,6948,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,35,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,3059,>= 1000 $,< 7 anos,2,masc-divorciado,n/há,4,imovel,61,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,30,conta critica / dividas com terceiros,carro novo,5234,< 100 $,desempregado,4,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,28,n/há,própria,2,empresario-gerente-altaqualificacao,1,não,sim,2
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,1295,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,48,pgto em dia neste banco (em aberto),negocios,4308,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1567,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,22,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,conta critica / dividas com terceiros,carro novo,1199,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,60,n/há,própria,2,empregado-semformacao-residente,1,não,sim,2
+< 0 $,15,pgto em dia neste banco (em aberto),carro novo,1403,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,28,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1282,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,32,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2424,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,53,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,30,nenhum/pgto em dia,negocios,8072,n/há,< 1 ano,2,masc-solteiro,n/há,3,carro ou outros-quitado,25,banco,própria,3,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro usado,12579,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,n/há,44,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,3430,>= 500 < 1000 $,>= 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,31,n/há,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,9,conta critica / dividas com terceiros,carro novo,2134,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,48,n/há,própria,3,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,6,pgto em dia neste banco (em aberto),radio ou televisao,2647,>= 500 < 1000 $,< 4 anos,2,masc-solteiro,n/há,3,imovel,44,n/há,aluguel,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,10,conta critica / dividas com terceiros,carro novo,2241,< 100 $,< 1 ano,1,masc-solteiro,n/há,3,imovel,48,n/há,aluguel,2,empregado-semformacao-residente,2,não,não,1
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro usado,1804,>= 100 < 500 $,< 1 ano,3,masc-solteiro,n/há,4,poupança ou seguro de vida,44,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,10,conta critica / dividas com terceiros,moveis e equipamentos,2069,n/há,< 4 anos,2,masc-casadoouviuvo,n/há,1,carro ou outros-quitado,26,n/há,própria,2,empregado-formadoouservidorpublico,1,não,não,1
+< 0 $,6,pgto em dia neste banco (em aberto),moveis e equipamentos,1374,< 100 $,< 4 anos,1,masc-solteiro,n/há,2,imovel,36,banco,própria,1,empregado-semformacao-residente,1,sim,sim,1
+n/há,6,nenhum/pgto em dia,radio ou televisao,426,< 100 $,>= 7 anos,4,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,39,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (quitado),radio ou televisao,409,>= 1000 $,< 4 anos,3,femi-divorciadaoucasada,n/há,3,imovel,42,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,7,pgto em dia neste banco (em aberto),radio ou televisao,2415,< 100 $,< 4 anos,3,masc-solteiro,garantidor,2,imovel,34,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,60,pgto em atraso no passado,negocios,6836,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,63,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),negocios,1913,>= 1000 $,< 1 ano,3,masc-casadoouviuvo,n/há,3,imovel,36,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,4020,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,27,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),carro novo,5866,>= 100 < 500 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,negocios,1264,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,57,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1474,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,33,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,45,conta critica / dividas com terceiros,radio ou televisao,4746,< 100 $,< 1 ano,4,masc-solteiro,n/há,2,poupança ou seguro de vida,25,n/há,própria,2,empregado-semformacao-residente,1,não,sim,2
+n/há,48,conta critica / dividas com terceiros,educacao,6110,< 100 $,< 4 anos,1,masc-solteiro,n/há,3,n/há,31,banco,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,18,pgto em dia neste banco (em aberto),radio ou televisao,2100,< 100 $,< 4 anos,4,masc-solteiro,codevedor,2,imovel,37,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,10,pgto em dia neste banco (em aberto),eletrodomesticos,1225,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,37,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,458,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,imovel,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,30,pgto em dia neste banco (em aberto),radio ou televisao,2333,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,banco,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1158,>= 500 < 1000 $,< 4 anos,3,masc-divorciado,n/há,1,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,pgto em atraso no passado,reparos,6204,< 100 $,< 4 anos,2,masc-solteiro,n/há,4,imovel,44,n/há,própria,1,empregado-semformacao-residente,2,sim,sim,1
+< 0 $,30,conta critica / dividas com terceiros,carro usado,6187,>= 100 < 500 $,< 7 anos,1,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,24,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,48,conta critica / dividas com terceiros,carro usado,6143,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,n/há,58,loja,gratuita,2,empregado-semformacao-residente,1,não,sim,2
+n/há,11,conta critica / dividas com terceiros,carro novo,1393,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,35,n/há,própria,2,empresario-gerente-altaqualificacao,1,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),radio ou televisao,2299,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,39,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,pgto em dia neste banco (em aberto),carro usado,1352,>= 500 < 1000 $,desempregado,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,23,n/há,aluguel,1,desempregado-semformacao-naoresidente,1,sim,sim,1
+n/há,11,conta critica / dividas com terceiros,carro novo,7228,< 100 $,< 4 anos,1,masc-solteiro,n/há,4,poupança ou seguro de vida,39,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,2073,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,codevedor,2,imovel,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,moveis e equipamentos,2333,n/há,< 1 ano,4,masc-solteiro,n/há,2,poupança ou seguro de vida,29,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,27,pgto em atraso no passado,carro usado,5965,< 100 $,>= 7 anos,1,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,1262,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),carro usado,3378,n/há,< 4 anos,2,masc-solteiro,n/há,1,poupança ou seguro de vida,31,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,36,pgto em atraso no passado,carro novo,2225,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,57,banco,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,6,pgto em dia neste banco (quitado),carro novo,783,n/há,< 4 anos,1,masc-solteiro,garantidor,2,imovel,26,loja,própria,1,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,6468,n/há,desempregado,2,masc-solteiro,n/há,1,n/há,52,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,36,conta critica / dividas com terceiros,radio ou televisao,9566,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,31,loja,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,18,pgto em dia neste banco (em aberto),carro novo,1961,< 100 $,>= 7 anos,3,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,23,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,36,conta critica / dividas com terceiros,moveis e equipamentos,6229,< 100 $,< 1 ano,4,femi-divorciadaoucasada,codevedor,4,n/há,23,n/há,aluguel,2,empregado-semformacao-residente,1,sim,sim,2
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),negocios,1391,< 100 $,< 4 anos,2,masc-casadoouviuvo,n/há,1,imovel,27,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,15,conta critica / dividas com terceiros,radio ou televisao,1537,n/há,>= 7 anos,4,masc-solteiro,garantidor,4,imovel,50,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,36,nenhum/pgto em dia,negocios,1953,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,61,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,48,nenhum/pgto em dia,negocios,14421,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,25,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,3181,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,27,pgto em dia neste banco (em aberto),reparos,5190,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,48,n/há,própria,4,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,2171,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,29,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,1007,>= 1000 $,< 4 anos,4,masc-casadoouviuvo,n/há,1,imovel,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),educacao,1819,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,37,loja,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,36,pgto em dia neste banco (em aberto),radio ou televisao,2394,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),carro usado,8133,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,30,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,7,conta critica / dividas com terceiros,radio ou televisao,730,n/há,>= 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,46,n/há,aluguel,2,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,8,conta critica / dividas com terceiros,outros,1164,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,51,banco,gratuita,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+>= 0 < 200 $,42,conta critica / dividas com terceiros,negocios,5954,< 100 $,< 7 anos,2,femi-divorciadaoucasada,n/há,1,imovel,41,banco,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),educacao,1977,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,40,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,12,conta critica / dividas com terceiros,carro usado,1526,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,66,n/há,gratuita,2,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,42,pgto em dia neste banco (em aberto),radio ou televisao,3965,< 100 $,< 1 ano,4,masc-solteiro,n/há,3,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,11,pgto em atraso no passado,radio ou televisao,4771,< 100 $,< 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,51,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,54,nenhum/pgto em dia,carro usado,9436,n/há,< 4 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,39,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,3832,< 100 $,< 1 ano,2,masc-casadoouviuvo,n/há,1,poupança ou seguro de vida,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,5943,n/há,< 1 ano,1,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,44,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,15,pgto em dia neste banco (em aberto),radio ou televisao,1213,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,47,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,18,pgto em dia neste banco (em aberto),negocios,1568,>= 100 < 500 $,< 4 anos,3,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),outros,1755,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,garantidor,4,imovel,58,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,10,pgto em dia neste banco (em aberto),radio ou televisao,2315,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,imovel,52,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,negocios,1412,< 100 $,< 4 anos,4,femi-divorciadaoucasada,garantidor,2,imovel,29,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,moveis e equipamentos,1295,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),educacao,12612,>= 100 < 500 $,< 4 anos,1,masc-solteiro,n/há,4,n/há,47,n/há,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,2
+< 0 $,18,pgto em dia neste banco (em aberto),carro novo,2249,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,30,n/há,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+< 0 $,12,nenhum/pgto em dia,reparos,1108,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,imovel,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,618,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,56,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro usado,1409,< 100 $,>= 7 anos,4,masc-solteiro,n/há,3,imovel,54,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,797,n/há,>= 7 anos,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,33,banco,própria,1,empregado-semformacao-residente,2,não,sim,2
+>= 200 $,24,conta critica / dividas com terceiros,moveis e equipamentos,3617,n/há,>= 7 anos,4,masc-solteiro,codevedor,4,n/há,20,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,1318,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,54,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,54,nenhum/pgto em dia,negocios,15945,< 100 $,< 1 ano,3,masc-solteiro,n/há,4,n/há,58,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,12,conta critica / dividas com terceiros,educacao,2012,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,61,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),negocios,2622,>= 100 < 500 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,conta critica / dividas com terceiros,radio ou televisao,2337,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,36,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,20,pgto em atraso no passado,carro usado,7057,n/há,< 7 anos,3,masc-solteiro,n/há,4,poupança ou seguro de vida,36,banco,aluguel,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,1469,>= 100 < 500 $,>= 7 anos,4,masc-casadoouviuvo,n/há,4,imovel,41,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,2323,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,24,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em atraso no passado,radio ou televisao,932,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,imovel,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,conta critica / dividas com terceiros,moveis e equipamentos,1919,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,35,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),carro usado,2445,n/há,< 1 ano,2,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,outros,11938,< 100 $,< 4 anos,2,masc-solteiro,codevedor,3,carro ou outros-quitado,39,n/há,própria,2,empresario-gerente-altaqualificacao,2,sim,sim,2
+n/há,18,pgto em dia neste banco (quitado),carro novo,6458,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,n/há,39,banco,própria,2,empresario-gerente-altaqualificacao,2,sim,sim,2
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,6078,< 100 $,< 7 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,32,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,7721,n/há,< 1 ano,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,30,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,não,1
+>= 0 < 200 $,14,pgto em dia neste banco (em aberto),negocios,1410,>= 500 < 1000 $,>= 7 anos,1,masc-casadoouviuvo,n/há,2,imovel,35,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,6,pgto em atraso no passado,negocios,1449,>= 100 < 500 $,>= 7 anos,1,masc-divorciado,n/há,2,carro ou outros-quitado,31,banco,própria,2,empregado-formadoouservidorpublico,2,não,sim,1
+>= 200 $,15,pgto em dia neste banco (em aberto),educacao,392,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),carro novo,6260,< 100 $,< 7 anos,3,masc-solteiro,n/há,3,imovel,28,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+n/há,36,conta critica / dividas com terceiros,carro novo,7855,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,imovel,25,loja,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1680,>= 500 < 1000 $,>= 7 anos,3,masc-casadoouviuvo,n/há,1,imovel,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,48,conta critica / dividas com terceiros,radio ou televisao,3578,n/há,>= 7 anos,4,masc-solteiro,n/há,1,imovel,47,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,42,pgto em dia neste banco (em aberto),radio ou televisao,7174,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,10,conta critica / dividas com terceiros,moveis e equipamentos,2132,n/há,< 1 ano,2,femi-divorciadaoucasada,codevedor,3,imovel,27,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,não,1
+< 0 $,33,conta critica / dividas com terceiros,moveis e equipamentos,4281,>= 500 < 1000 $,< 4 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro novo,2366,>= 500 < 1000 $,< 7 anos,3,masc-divorciado,n/há,3,carro ou outros-quitado,36,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,21,pgto em dia neste banco (em aberto),radio ou televisao,1835,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,imovel,25,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,carro usado,3868,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,41,n/há,aluguel,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1768,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,24,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+>= 200 $,10,conta critica / dividas com terceiros,carro novo,781,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,63,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,1924,n/há,< 1 ano,4,femi-divorciadaoucasada,n/há,3,imovel,27,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,12,conta critica / dividas com terceiros,carro novo,2121,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,701,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,2,imovel,40,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),reparos,639,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro usado,1860,< 100 $,desempregado,4,masc-solteiro,n/há,2,carro ou outros-quitado,34,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro novo,3499,< 100 $,< 4 anos,3,femi-divorciadaoucasada,codevedor,2,imovel,29,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),carro novo,8487,n/há,< 7 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,36,pgto em atraso no passado,educacao,6887,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,29,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,15,pgto em dia neste banco (em aberto),moveis e equipamentos,2708,< 100 $,< 1 ano,2,masc-solteiro,n/há,3,poupança ou seguro de vida,27,banco,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),moveis e equipamentos,1984,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,47,banco,gratuita,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,60,pgto em dia neste banco (em aberto),radio ou televisao,10144,>= 100 < 500 $,< 7 anos,2,femi-divorciadaoucasada,n/há,4,imovel,21,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,1240,n/há,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,imovel,38,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,27,pgto em atraso no passado,carro usado,8613,>= 1000 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,766,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,3,imovel,66,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,15,conta critica / dividas com terceiros,radio ou televisao,2728,n/há,< 7 anos,4,masc-solteiro,garantidor,2,imovel,35,banco,própria,3,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1881,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,44,n/há,aluguel,1,empregado-semformacao-residente,1,sim,sim,1
+>= 200 $,6,pgto em dia neste banco (em aberto),carro novo,709,>= 1000 $,< 1 ano,2,masc-casadoouviuvo,n/há,2,imovel,27,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,não,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,4795,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,n/há,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,27,pgto em dia neste banco (em aberto),radio ou televisao,3416,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,27,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2462,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,21,conta critica / dividas com terceiros,moveis e equipamentos,2288,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,23,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (quitado),negocios,3566,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,conta critica / dividas com terceiros,carro novo,860,< 100 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,n/há,39,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,carro novo,682,>= 100 < 500 $,< 7 anos,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,51,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,36,conta critica / dividas com terceiros,moveis e equipamentos,5371,< 100 $,< 4 anos,3,masc-solteiro,garantidor,2,poupança ou seguro de vida,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,1582,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,46,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em dia neste banco (em aberto),radio ou televisao,1346,>= 100 < 500 $,>= 7 anos,2,masc-solteiro,n/há,4,n/há,42,banco,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,10,pgto em dia neste banco (em aberto),radio ou televisao,1924,< 100 $,< 4 anos,1,masc-solteiro,n/há,4,poupança ou seguro de vida,38,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,não,1
+>= 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,5848,< 100 $,< 4 anos,4,masc-solteiro,n/há,1,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,carro usado,7758,>= 1000 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,n/há,29,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,negocios,6967,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,36,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1282,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,20,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,9,conta critica / dividas com terceiros,reparos,1288,>= 100 < 500 $,>= 7 anos,3,masc-solteiro,garantidor,4,imovel,48,n/há,própria,2,empregado-formadoouservidorpublico,2,não,não,1
+< 0 $,12,pgto em dia neste banco (quitado),reciclagem profissional,339,< 100 $,>= 7 anos,4,masc-casadoouviuvo,n/há,1,carro ou outros-quitado,45,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro novo,3512,>= 100 < 500 $,< 7 anos,2,masc-solteiro,n/há,3,carro ou outros-quitado,38,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,1898,n/há,< 4 anos,1,masc-solteiro,n/há,2,imovel,34,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2872,>= 100 < 500 $,>= 7 anos,3,masc-solteiro,n/há,4,imovel,36,n/há,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,18,conta critica / dividas com terceiros,carro novo,1055,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),eletrodomesticos,1262,>= 500 < 1000 $,< 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,36,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,10,pgto em dia neste banco (em aberto),carro novo,7308,< 100 $,desempregado,2,masc-solteiro,n/há,4,n/há,70,banco,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,36,pgto em dia neste banco (em aberto),carro novo,909,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,36,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em dia neste banco (em aberto),moveis e equipamentos,2978,>= 500 < 1000 $,< 4 anos,1,masc-solteiro,n/há,2,carro ou outros-quitado,32,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,1131,< 100 $,desempregado,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,11,pgto em dia neste banco (em aberto),moveis e equipamentos,1577,>= 1000 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,imovel,20,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3972,< 100 $,< 7 anos,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,negocios,1935,< 100 $,>= 7 anos,4,masc-divorciado,n/há,4,imovel,31,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,15,nenhum/pgto em dia,carro novo,950,< 100 $,>= 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,33,n/há,aluguel,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),moveis e equipamentos,763,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,1,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,moveis e equipamentos,2064,< 100 $,desempregado,3,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,34,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,8,pgto em dia neste banco (em aberto),radio ou televisao,1414,< 100 $,< 4 anos,4,masc-solteiro,garantidor,2,imovel,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,1
+< 0 $,21,pgto em atraso no passado,educacao,3414,< 100 $,< 1 ano,2,masc-solteiro,n/há,1,poupança ou seguro de vida,26,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,30,pgto em dia neste banco (quitado),carro usado,7485,n/há,desempregado,4,femi-divorciadaoucasada,n/há,1,imovel,53,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,2577,< 100 $,< 4 anos,2,masc-divorciado,n/há,1,carro ou outros-quitado,42,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,conta critica / dividas com terceiros,radio ou televisao,338,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,52,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,1963,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,31,n/há,aluguel,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+< 0 $,21,conta critica / dividas com terceiros,carro novo,571,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,65,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em atraso no passado,negocios,9572,< 100 $,< 1 ano,1,masc-divorciado,n/há,1,carro ou outros-quitado,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,36,pgto em atraso no passado,negocios,4455,< 100 $,< 4 anos,2,masc-divorciado,n/há,2,imovel,30,loja,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,21,pgto em dia neste banco (quitado),carro novo,1647,n/há,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,40,n/há,própria,2,empregado-semformacao-residente,2,não,sim,2
+n/há,24,conta critica / dividas com terceiros,moveis e equipamentos,3777,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,50,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,carro novo,884,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,36,banco,própria,1,empregado-formadoouservidorpublico,2,sim,sim,2
+n/há,15,conta critica / dividas com terceiros,radio ou televisao,1360,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,31,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (quitado),carro usado,5129,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,n/há,74,banco,gratuita,1,empresario-gerente-altaqualificacao,2,sim,sim,2
+>= 0 < 200 $,16,conta critica / dividas com terceiros,carro novo,1175,< 100 $,desempregado,2,masc-solteiro,n/há,3,carro ou outros-quitado,68,n/há,gratuita,3,desempregado-semformacao-naoresidente,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,674,>= 100 < 500 $,< 7 anos,4,masc-casadoouviuvo,n/há,1,poupança ou seguro de vida,20,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,18,nenhum/pgto em dia,moveis e equipamentos,3244,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,33,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),negocios,4591,>= 1000 $,< 4 anos,2,masc-solteiro,n/há,3,poupança ou seguro de vida,54,n/há,própria,3,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,48,nenhum/pgto em dia,negocios,3844,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,4,n/há,34,n/há,gratuita,1,empregado-semformacao-residente,2,não,sim,2
+>= 0 < 200 $,27,pgto em dia neste banco (em aberto),negocios,3915,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,36,n/há,própria,1,empregado-formadoouservidorpublico,2,sim,sim,2
+n/há,6,pgto em dia neste banco (em aberto),radio ou televisao,2108,< 100 $,< 7 anos,2,masc-casadoouviuvo,n/há,2,imovel,29,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,45,pgto em dia neste banco (em aberto),radio ou televisao,3031,>= 100 < 500 $,< 4 anos,4,masc-solteiro,garantidor,4,poupança ou seguro de vida,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,9,conta critica / dividas com terceiros,educacao,1501,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,34,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,1382,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,28,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,951,>= 100 < 500 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,27,banco,aluguel,4,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro usado,2760,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,36,banco,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,pgto em atraso no passado,moveis e equipamentos,4297,< 100 $,>= 7 anos,4,masc-divorciado,n/há,3,n/há,40,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,9,conta critica / dividas com terceiros,educacao,936,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,52,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,1168,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,3,imovel,27,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,27,pgto em atraso no passado,negocios,5117,< 100 $,< 7 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,26,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),reciclagem profissional,902,< 100 $,< 7 anos,4,masc-casadoouviuvo,n/há,4,poupança ou seguro de vida,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,conta critica / dividas com terceiros,carro novo,1495,< 100 $,>= 7 anos,4,masc-solteiro,n/há,1,imovel,38,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+< 0 $,30,conta critica / dividas com terceiros,carro usado,10623,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,38,n/há,gratuita,3,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,1935,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,43,n/há,própria,3,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,conta critica / dividas com terceiros,eletrodomesticos,1424,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),negocios,6568,< 100 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,21,loja,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),carro usado,1413,>= 1000 $,< 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,55,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,1
+n/há,9,conta critica / dividas com terceiros,radio ou televisao,3074,n/há,< 4 anos,1,masc-solteiro,n/há,2,imovel,33,n/há,própria,2,empregado-formadoouservidorpublico,2,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),radio ou televisao,3835,n/há,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,imovel,45,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,27,nenhum/pgto em dia,negocios,5293,< 100 $,desempregado,2,masc-solteiro,n/há,4,poupança ou seguro de vida,50,loja,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 200 $,30,pgto em atraso no passado,negocios,1908,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,66,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,36,conta critica / dividas com terceiros,radio ou televisao,3342,n/há,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,51,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,6,conta critica / dividas com terceiros,reciclagem profissional,932,n/há,< 7 anos,1,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,39,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,18,nenhum/pgto em dia,negocios,3104,< 100 $,< 7 anos,3,masc-solteiro,n/há,1,poupança ou seguro de vida,31,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,3913,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,23,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3021,< 100 $,< 4 anos,2,masc-divorciado,n/há,2,imovel,24,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1364,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,64,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,625,< 100 $,< 1 ano,4,masc-casadoouviuvo,garantidor,1,imovel,26,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),educacao,1200,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,23,banco,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,707,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,imovel,30,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em atraso no passado,negocios,2978,n/há,< 4 anos,4,masc-solteiro,n/há,4,imovel,32,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,15,pgto em dia neste banco (em aberto),carro usado,4657,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,36,nenhum/pgto em dia,reparos,2613,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),radio ou televisao,10961,>= 1000 $,< 7 anos,1,masc-solteiro,codevedor,2,n/há,27,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,7865,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,53,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,9,pgto em dia neste banco (em aberto),radio ou televisao,1478,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3149,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,n/há,22,banco,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,4210,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,9,pgto em dia neste banco (em aberto),carro novo,2507,>= 500 < 1000 $,>= 7 anos,2,masc-solteiro,n/há,4,n/há,51,n/há,gratuita,1,empregado-semformacao-residente,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,2141,>= 100 < 500 $,< 7 anos,3,masc-solteiro,n/há,1,n/há,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),radio ou televisao,866,< 100 $,< 4 anos,4,masc-casadoouviuvo,garantidor,2,imovel,25,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,4,conta critica / dividas com terceiros,radio ou televisao,1544,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,imovel,42,n/há,própria,3,empregado-semformacao-residente,2,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1823,< 100 $,desempregado,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,loja,própria,1,empresario-gerente-altaqualificacao,2,não,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),carro novo,14555,n/há,desempregado,1,masc-solteiro,n/há,2,poupança ou seguro de vida,23,n/há,própria,1,desempregado-semformacao-naoresidente,1,sim,sim,2
+>= 0 < 200 $,21,pgto em dia neste banco (em aberto),negocios,2767,>= 100 < 500 $,>= 7 anos,4,masc-divorciado,n/há,2,carro ou outros-quitado,61,banco,aluguel,2,empregado-semformacao-residente,1,não,sim,2
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,1291,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,35,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),radio ou televisao,2522,< 100 $,>= 7 anos,1,masc-solteiro,garantidor,3,poupança ou seguro de vida,39,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,915,n/há,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,29,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,6,pgto em dia neste banco (em aberto),radio ou televisao,1595,< 100 $,< 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,51,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,48,nenhum/pgto em dia,carro usado,4605,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,24,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,12,conta critica / dividas com terceiros,negocios,1185,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,imovel,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,pgto em dia neste banco (quitado),reciclagem profissional,3447,>= 500 < 1000 $,< 4 anos,4,femi-divorciadaoucasada,n/há,3,imovel,35,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),negocios,1258,< 100 $,< 7 anos,4,masc-solteiro,n/há,1,imovel,25,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,717,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,52,n/há,própria,3,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,nenhum/pgto em dia,carro novo,1204,>= 100 < 500 $,< 4 anos,4,masc-solteiro,n/há,1,n/há,35,banco,aluguel,1,empregado-formadoouservidorpublico,1,não,não,1
+>= 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,1925,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,433,< 100 $,desempregado,3,femi-divorciadaoucasada,codevedor,4,imovel,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,6,conta critica / dividas com terceiros,carro novo,666,>= 1000 $,< 7 anos,3,femi-divorciadaoucasada,n/há,4,imovel,39,n/há,própria,2,empregado-semformacao-residente,1,sim,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,2251,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,46,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,30,pgto em dia neste banco (em aberto),carro novo,2150,< 100 $,< 4 anos,4,femi-divorciadaoucasada,garantidor,2,n/há,24,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em atraso no passado,moveis e equipamentos,4151,>= 100 < 500 $,< 4 anos,2,masc-solteiro,n/há,3,poupança ou seguro de vida,35,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),moveis e equipamentos,2030,n/há,< 7 anos,2,masc-solteiro,n/há,1,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,60,pgto em atraso no passado,radio ou televisao,7418,n/há,< 4 anos,1,masc-solteiro,n/há,1,imovel,27,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2684,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,imovel,35,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (quitado),radio ou televisao,2149,< 100 $,< 4 anos,4,masc-divorciado,n/há,1,n/há,29,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,15,pgto em dia neste banco (em aberto),carro usado,3812,>= 100 < 500 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,11,conta critica / dividas com terceiros,radio ou televisao,1154,>= 100 < 500 $,desempregado,4,femi-divorciadaoucasada,n/há,4,imovel,57,n/há,própria,3,empregado-semformacao-residente,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1657,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1603,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,55,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,conta critica / dividas com terceiros,carro novo,5302,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,n/há,36,n/há,gratuita,3,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,educacao,2748,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,n/há,57,banco,gratuita,3,empregado-semformacao-residente,1,não,sim,1
+n/há,10,conta critica / dividas com terceiros,carro novo,1231,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,imovel,32,n/há,própria,2,empregado-semformacao-residente,2,não,não,1
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),radio ou televisao,802,< 100 $,>= 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,37,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,36,conta critica / dividas com terceiros,negocios,6304,n/há,>= 7 anos,4,masc-solteiro,n/há,4,imovel,36,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1533,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,38,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,14,pgto em dia neste banco (em aberto),carro novo,8978,< 100 $,>= 7 anos,1,masc-divorciado,n/há,4,poupança ou seguro de vida,45,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,não,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,999,n/há,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),carro novo,2662,n/há,< 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,32,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,1
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,1402,>= 500 < 1000 $,< 7 anos,3,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,37,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (quitado),carro novo,12169,n/há,desempregado,4,masc-solteiro,codevedor,4,n/há,36,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),radio ou televisao,3060,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,imovel,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,30,pgto em dia neste banco (em aberto),reparos,11998,< 100 $,< 1 ano,1,masc-divorciado,n/há,1,n/há,34,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,2
+n/há,9,pgto em dia neste banco (em aberto),radio ou televisao,2697,< 100 $,< 4 anos,1,masc-solteiro,n/há,2,imovel,32,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,2404,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,26,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1262,n/há,>= 7 anos,2,masc-divorciado,n/há,4,poupança ou seguro de vida,49,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+n/há,6,pgto em dia neste banco (em aberto),moveis e equipamentos,4611,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,32,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1901,>= 100 < 500 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,29,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,15,conta critica / dividas com terceiros,carro usado,3368,>= 1000 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1574,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,imovel,50,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,18,pgto em dia neste banco (quitado),radio ou televisao,1445,n/há,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,49,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,15,conta critica / dividas com terceiros,moveis e equipamentos,1520,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,63,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,carro novo,3878,>= 100 < 500 $,< 1 ano,4,masc-divorciado,n/há,2,carro ou outros-quitado,37,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,47,pgto em dia neste banco (em aberto),carro novo,10722,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,1,imovel,35,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,48,pgto em dia neste banco (em aberto),carro usado,4788,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,48,pgto em atraso no passado,outros,7582,>= 100 < 500 $,desempregado,2,masc-solteiro,n/há,4,n/há,31,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1092,< 100 $,< 4 anos,4,femi-divorciadaoucasada,garantidor,4,imovel,49,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em atraso no passado,radio ou televisao,1024,< 100 $,< 1 ano,4,masc-casadoouviuvo,n/há,4,imovel,48,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),negocios,1076,< 100 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,não,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),carro usado,9398,< 100 $,< 1 ano,1,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,28,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,24,conta critica / dividas com terceiros,carro usado,6419,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,n/há,44,n/há,gratuita,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+>= 200 $,42,conta critica / dividas com terceiros,carro usado,4796,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,56,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,48,conta critica / dividas com terceiros,negocios,7629,n/há,>= 7 anos,4,masc-divorciado,n/há,2,carro ou outros-quitado,46,banco,própria,2,empresario-gerente-altaqualificacao,2,não,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),moveis e equipamentos,9960,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro usado,4675,n/há,< 1 ano,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,20,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1287,n/há,>= 7 anos,4,masc-solteiro,codevedor,2,poupança ou seguro de vida,45,n/há,própria,1,empregado-semformacao-residente,1,não,não,1
+n/há,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2515,< 100 $,< 4 anos,3,masc-solteiro,n/há,4,imovel,43,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,21,conta critica / dividas com terceiros,moveis e equipamentos,2745,>= 1000 $,< 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,32,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,6,pgto em dia neste banco (em aberto),carro novo,672,< 100 $,desempregado,1,femi-divorciadaoucasada,n/há,4,imovel,54,n/há,própria,1,desempregado-semformacao-naoresidente,1,sim,sim,1
+>= 0 < 200 $,36,nenhum/pgto em dia,radio ou televisao,3804,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,42,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 200 $,24,conta critica / dividas com terceiros,carro novo,1344,n/há,< 7 anos,4,masc-solteiro,n/há,2,imovel,37,banco,própria,2,empregado-semformacao-residente,2,não,sim,2
+< 0 $,10,conta critica / dividas com terceiros,carro novo,1038,< 100 $,< 7 anos,4,masc-solteiro,codevedor,3,poupança ou seguro de vida,49,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,48,conta critica / dividas com terceiros,carro novo,10127,>= 500 < 1000 $,< 4 anos,2,masc-solteiro,n/há,2,n/há,44,banco,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,6,pgto em dia neste banco (em aberto),moveis e equipamentos,1543,>= 1000 $,< 4 anos,4,masc-divorciado,n/há,2,imovel,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,30,pgto em dia neste banco (em aberto),carro usado,4811,n/há,< 7 anos,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,loja,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,727,>= 100 < 500 $,< 1 ano,4,masc-casadoouviuvo,n/há,3,n/há,33,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,2
+>= 0 < 200 $,8,pgto em dia neste banco (em aberto),moveis e equipamentos,1237,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,4,imovel,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),carro novo,276,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,4,imovel,22,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),outros,5381,n/há,desempregado,3,masc-solteiro,n/há,4,n/há,40,banco,gratuita,1,desempregado-semformacao-naoresidente,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),moveis e equipamentos,5511,>= 100 < 500 $,< 4 anos,4,masc-solteiro,n/há,1,carro ou outros-quitado,25,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3749,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,685,< 100 $,< 7 anos,2,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,25,banco,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 200 $,4,pgto em dia neste banco (em aberto),carro novo,1494,n/há,< 1 ano,1,masc-solteiro,n/há,2,imovel,29,n/há,própria,1,empregado-semformacao-residente,2,não,não,1
+< 0 $,36,pgto em dia neste banco (quitado),moveis e equipamentos,2746,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,31,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,708,< 100 $,< 4 anos,2,masc-solteiro,garantidor,3,poupança ou seguro de vida,38,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,4351,n/há,< 4 anos,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,48,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,educacao,701,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,32,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,15,pgto em atraso no passado,moveis e equipamentos,3643,< 100 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,27,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,30,conta critica / dividas com terceiros,carro novo,4249,< 100 $,desempregado,4,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,28,n/há,própria,2,empresario-gerente-altaqualificacao,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1938,< 100 $,< 1 ano,4,masc-divorciado,n/há,3,poupança ou seguro de vida,32,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro usado,2910,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,n/há,34,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2659,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,carro novo,1028,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,3,imovel,36,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,8,conta critica / dividas com terceiros,carro novo,3398,< 100 $,< 7 anos,1,masc-solteiro,n/há,4,imovel,39,n/há,própria,2,empregado-semformacao-residente,1,não,não,1
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,5801,n/há,>= 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,49,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,1525,>= 1000 $,< 7 anos,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,4473,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,31,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,1068,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,24,conta critica / dividas com terceiros,carro usado,6615,< 100 $,desempregado,2,masc-solteiro,n/há,4,n/há,75,n/há,gratuita,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,18,conta critica / dividas com terceiros,educacao,1864,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,imovel,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,60,pgto em dia neste banco (em aberto),carro novo,7408,>= 100 < 500 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,24,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,2
+n/há,48,conta critica / dividas com terceiros,carro usado,11590,>= 100 < 500 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,24,banco,aluguel,2,empregado-semformacao-residente,1,não,sim,2
+< 0 $,24,nenhum/pgto em dia,moveis e equipamentos,4110,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,23,banco,aluguel,2,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,6,conta critica / dividas com terceiros,moveis e equipamentos,3384,< 100 $,< 4 anos,1,masc-divorciado,n/há,4,imovel,44,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,13,pgto em dia neste banco (em aberto),radio ou televisao,2101,< 100 $,< 1 ano,2,femi-divorciadaoucasada,garantidor,4,poupança ou seguro de vida,23,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),eletrodomesticos,1275,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,24,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,4169,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,10,pgto em dia neste banco (em aberto),moveis e equipamentos,1521,< 100 $,< 4 anos,4,masc-divorciado,n/há,2,carro ou outros-quitado,31,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,educacao,5743,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,n/há,24,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,21,pgto em dia neste banco (em aberto),moveis e equipamentos,3599,< 100 $,< 7 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,26,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),radio ou televisao,3213,>= 500 < 1000 $,< 1 ano,1,masc-casadoouviuvo,n/há,3,imovel,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),negocios,4439,< 100 $,>= 7 anos,1,masc-solteiro,codevedor,1,imovel,33,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,10,pgto em dia neste banco (em aberto),carro novo,3949,< 100 $,< 1 ano,1,masc-solteiro,garantidor,1,poupança ou seguro de vida,37,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+n/há,15,conta critica / dividas com terceiros,radio ou televisao,1459,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,43,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,13,conta critica / dividas com terceiros,radio ou televisao,882,< 100 $,< 1 ano,4,masc-solteiro,garantidor,4,imovel,23,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,3758,>= 500 < 1000 $,desempregado,1,femi-divorciadaoucasada,n/há,4,n/há,23,n/há,aluguel,1,desempregado-semformacao-naoresidente,1,não,sim,1
+n/há,6,pgto em atraso no passado,negocios,1743,>= 100 < 500 $,< 4 anos,1,masc-solteiro,n/há,2,imovel,34,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,9,conta critica / dividas com terceiros,educacao,1136,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,3,n/há,32,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,9,pgto em dia neste banco (em aberto),eletrodomesticos,1236,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),moveis e equipamentos,959,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,2
+n/há,18,conta critica / dividas com terceiros,carro usado,3229,n/há,desempregado,2,masc-solteiro,n/há,4,n/há,38,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,nenhum/pgto em dia,radio ou televisao,6199,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,28,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,10,pgto em dia neste banco (em aberto),educacao,727,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,46,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro novo,1246,< 100 $,< 1 ano,4,masc-solteiro,n/há,2,imovel,23,loja,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,2331,n/há,>= 7 anos,1,masc-solteiro,codevedor,4,imovel,49,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,36,pgto em atraso no passado,radio ou televisao,4463,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,26,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,776,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,2,imovel,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,2406,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),educacao,1239,n/há,< 4 anos,4,masc-solteiro,n/há,4,n/há,61,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,3399,n/há,>= 7 anos,2,masc-solteiro,n/há,3,carro ou outros-quitado,37,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 200 $,12,pgto em atraso no passado,carro novo,2247,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,36,loja,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,6,pgto em dia neste banco (em aberto),moveis e equipamentos,1766,< 100 $,< 4 anos,1,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2473,< 100 $,desempregado,4,masc-solteiro,n/há,1,carro ou outros-quitado,25,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),negocios,1542,< 100 $,< 7 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,36,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,18,conta critica / dividas com terceiros,carro usado,3850,< 100 $,< 7 anos,3,masc-solteiro,n/há,1,carro ou outros-quitado,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,3650,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,3446,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,42,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,2
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,3001,< 100 $,< 7 anos,2,femi-divorciadaoucasada,n/há,4,imovel,40,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),carro novo,3079,n/há,< 4 anos,4,masc-solteiro,n/há,4,imovel,36,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,6070,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,33,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,10,conta critica / dividas com terceiros,moveis e equipamentos,2146,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,3,imovel,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,60,conta critica / dividas com terceiros,carro novo,13756,n/há,>= 7 anos,2,masc-solteiro,n/há,4,n/há,63,banco,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,60,pgto em dia neste banco (quitado),outros,14782,>= 100 < 500 $,>= 7 anos,3,femi-divorciadaoucasada,n/há,4,n/há,60,banco,gratuita,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,48,pgto em dia neste banco (quitado),negocios,7685,< 100 $,< 7 anos,2,femi-divorciadaoucasada,garantidor,4,carro ou outros-quitado,37,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,18,pgto em atraso no passado,radio ou televisao,2320,< 100 $,desempregado,2,masc-casadoouviuvo,n/há,3,imovel,34,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,7,pgto em atraso no passado,radio ou televisao,846,n/há,>= 7 anos,3,masc-solteiro,n/há,4,n/há,36,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),carro novo,14318,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,n/há,57,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,6,conta critica / dividas com terceiros,carro novo,362,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,52,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,20,pgto em dia neste banco (em aberto),moveis e equipamentos,2212,n/há,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,39,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),carro usado,12976,< 100 $,desempregado,3,femi-divorciadaoucasada,n/há,4,n/há,38,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,22,pgto em dia neste banco (em aberto),carro novo,1283,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),carro novo,1330,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,30,pgto em atraso no passado,negocios,4272,>= 100 < 500 $,< 4 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,26,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,2238,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,1126,n/há,< 1 ano,4,femi-divorciadaoucasada,n/há,2,imovel,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,moveis e equipamentos,7374,< 100 $,desempregado,4,masc-solteiro,n/há,4,poupança ou seguro de vida,40,loja,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,15,conta critica / dividas com terceiros,negocios,2326,>= 500 < 1000 $,< 4 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,27,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,9,pgto em dia neste banco (em aberto),negocios,1449,< 100 $,< 7 anos,3,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),carro novo,1820,< 100 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,983,>= 1000 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,imovel,19,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),carro novo,3249,< 100 $,< 7 anos,2,masc-solteiro,n/há,4,n/há,39,banco,gratuita,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+< 0 $,6,conta critica / dividas com terceiros,radio ou televisao,1957,< 100 $,< 7 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,31,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,9,conta critica / dividas com terceiros,moveis e equipamentos,2406,< 100 $,desempregado,2,masc-solteiro,n/há,3,carro ou outros-quitado,31,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 0 < 200 $,39,pgto em atraso no passado,educacao,11760,>= 100 < 500 $,< 7 anos,2,masc-solteiro,n/há,3,n/há,32,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,2578,< 100 $,desempregado,3,femi-divorciadaoucasada,n/há,4,n/há,55,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,36,conta critica / dividas com terceiros,moveis e equipamentos,2348,< 100 $,< 4 anos,3,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,46,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,1223,< 100 $,>= 7 anos,1,masc-divorciado,n/há,1,imovel,46,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,1516,>= 1000 $,< 4 anos,4,femi-divorciadaoucasada,n/há,1,imovel,43,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,1473,< 100 $,< 1 ano,3,masc-casadoouviuvo,n/há,4,imovel,39,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,negocios,1887,n/há,< 4 anos,4,masc-casadoouviuvo,n/há,4,imovel,28,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em atraso no passado,negocios,8648,< 100 $,< 1 ano,2,masc-solteiro,n/há,2,carro ou outros-quitado,27,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,14,pgto em atraso no passado,carro novo,802,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,27,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,18,pgto em atraso no passado,carro novo,2899,n/há,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,43,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,2039,< 100 $,< 1 ano,1,masc-casadoouviuvo,n/há,1,poupança ou seguro de vida,22,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,carro usado,2197,n/há,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,43,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),radio ou televisao,1053,< 100 $,< 1 ano,4,masc-casadoouviuvo,n/há,2,imovel,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,3235,>= 500 < 1000 $,>= 7 anos,3,masc-divorciado,n/há,2,carro ou outros-quitado,26,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,12,conta critica / dividas com terceiros,carro novo,939,>= 500 < 1000 $,< 7 anos,4,masc-casadoouviuvo,n/há,2,imovel,28,n/há,própria,3,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1967,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,20,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,33,conta critica / dividas com terceiros,carro usado,7253,< 100 $,< 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,35,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,negocios,2292,< 100 $,desempregado,4,masc-solteiro,n/há,2,carro ou outros-quitado,42,loja,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1597,>= 500 < 1000 $,< 4 anos,3,masc-solteiro,n/há,2,n/há,40,n/há,aluguel,1,empregado-semformacao-residente,2,não,não,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,1381,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,36,conta critica / dividas com terceiros,carro usado,5842,< 100 $,>= 7 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,35,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,2579,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,imovel,33,n/há,própria,1,empregado-semformacao-residente,2,não,sim,2
+< 0 $,18,pgto em atraso no passado,educacao,8471,n/há,< 4 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,21,pgto em dia neste banco (em aberto),carro novo,2782,>= 500 < 1000 $,< 7 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,31,banco,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),carro novo,1042,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,15,pgto em dia neste banco (em aberto),carro novo,3186,>= 1000 $,< 7 anos,2,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,20,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro usado,2028,n/há,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro novo,958,< 100 $,< 7 anos,2,masc-solteiro,n/há,3,imovel,47,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+n/há,21,pgto em atraso no passado,moveis e equipamentos,1591,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,3,imovel,34,n/há,própria,2,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,2762,n/há,>= 7 anos,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,25,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),carro usado,2779,< 100 $,< 4 anos,1,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,28,conta critica / dividas com terceiros,radio ou televisao,2743,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,29,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,1149,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,3,imovel,46,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,9,pgto em dia neste banco (em aberto),moveis e equipamentos,1313,< 100 $,>= 7 anos,1,masc-solteiro,n/há,4,carro ou outros-quitado,20,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,conta critica / dividas com terceiros,reparos,1190,< 100 $,desempregado,2,femi-divorciadaoucasada,n/há,4,n/há,55,n/há,gratuita,3,desempregado-semformacao-naoresidente,2,não,sim,2
+n/há,5,pgto em dia neste banco (em aberto),negocios,3448,< 100 $,< 7 anos,1,masc-solteiro,n/há,4,imovel,74,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),outros,11328,< 100 $,< 4 anos,2,masc-solteiro,codevedor,3,carro ou outros-quitado,29,banco,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,6,conta critica / dividas com terceiros,moveis e equipamentos,1872,< 100 $,desempregado,4,masc-solteiro,n/há,4,n/há,36,n/há,gratuita,3,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,24,conta critica / dividas com terceiros,reparos,2058,< 100 $,< 4 anos,4,masc-divorciado,n/há,2,imovel,33,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,9,pgto em dia neste banco (em aberto),moveis e equipamentos,2136,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1484,n/há,< 4 anos,2,masc-casadoouviuvo,n/há,1,imovel,25,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,6,pgto em dia neste banco (em aberto),reparos,660,>= 500 < 1000 $,< 7 anos,2,masc-casadoouviuvo,n/há,4,imovel,23,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,carro novo,1287,>= 1000 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,imovel,37,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,42,conta critica / dividas com terceiros,reparos,3394,< 100 $,desempregado,4,masc-solteiro,codevedor,4,carro ou outros-quitado,65,n/há,própria,2,desempregado-semformacao-naoresidente,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (quitado),negocios,609,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,imovel,26,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro novo,1884,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,39,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1620,< 100 $,< 4 anos,2,femi-divorciadaoucasada,codevedor,3,poupança ou seguro de vida,30,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,20,pgto em atraso no passado,outros,2629,< 100 $,< 4 anos,2,masc-solteiro,n/há,3,carro ou outros-quitado,29,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),educacao,719,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,41,banco,própria,1,empregado-semformacao-residente,2,não,sim,2
+>= 0 < 200 $,48,conta critica / dividas com terceiros,moveis e equipamentos,5096,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,9,conta critica / dividas com terceiros,educacao,1244,n/há,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,41,n/há,aluguel,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),carro novo,1842,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,7,pgto em dia neste banco (em aberto),radio ou televisao,2576,< 100 $,< 4 anos,2,masc-solteiro,garantidor,2,imovel,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1424,n/há,>= 7 anos,3,femi-divorciadaoucasada,n/há,4,imovel,55,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,15,pgto em atraso no passado,reparos,1512,>= 1000 $,< 4 anos,3,masc-casadoouviuvo,n/há,3,poupança ou seguro de vida,61,loja,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,36,conta critica / dividas com terceiros,carro usado,11054,n/há,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,6,pgto em dia neste banco (em aberto),radio ou televisao,518,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,1,imovel,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,nenhum/pgto em dia,moveis e equipamentos,2759,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,34,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro usado,2670,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,35,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,4817,< 100 $,< 7 anos,2,masc-solteiro,codevedor,3,poupança ou seguro de vida,31,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,24,pgto em dia neste banco (em aberto),carro usado,2679,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,n/há,29,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,11,conta critica / dividas com terceiros,carro novo,3905,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,36,n/há,aluguel,2,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro usado,3386,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,35,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,6,pgto em dia neste banco (em aberto),eletrodomesticos,343,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,imovel,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,4594,< 100 $,< 1 ano,3,masc-solteiro,n/há,2,carro ou outros-quitado,32,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,3620,< 100 $,< 4 anos,1,masc-solteiro,garantidor,2,poupança ou seguro de vida,37,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),carro novo,1721,< 100 $,< 1 ano,2,masc-solteiro,n/há,3,imovel,36,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,3017,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,1,imovel,34,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),reciclagem profissional,754,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,38,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),negocios,1950,< 100 $,< 7 anos,4,masc-solteiro,n/há,1,carro ou outros-quitado,34,loja,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro usado,2924,< 100 $,< 4 anos,3,masc-solteiro,garantidor,4,n/há,63,banco,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,24,pgto em atraso no passado,radio ou televisao,1659,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,29,n/há,aluguel,1,empregado-semformacao-residente,1,sim,sim,2
+n/há,48,pgto em atraso no passado,radio ou televisao,7238,n/há,>= 7 anos,3,masc-solteiro,n/há,3,carro ou outros-quitado,32,banco,própria,2,empregado-formadoouservidorpublico,2,não,sim,1
+n/há,33,pgto em atraso no passado,negocios,2764,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,26,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em atraso no passado,carro usado,4679,< 100 $,< 7 anos,3,masc-solteiro,n/há,3,carro ou outros-quitado,35,n/há,própria,2,empregado-semformacao-residente,1,sim,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,3092,>= 100 < 500 $,< 1 ano,3,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,6,pgto em dia neste banco (em aberto),educacao,448,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,9,pgto em dia neste banco (em aberto),carro novo,654,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,28,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,6,pgto em dia neste banco (em aberto),reciclagem profissional,1238,n/há,desempregado,4,masc-solteiro,n/há,4,poupança ou seguro de vida,36,n/há,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,radio ou televisao,1245,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,18,nenhum/pgto em dia,moveis e equipamentos,3114,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,39,pgto em dia neste banco (em aberto),carro usado,2569,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,5152,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,25,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),negocios,1037,>= 100 < 500 $,< 7 anos,3,masc-solteiro,n/há,4,imovel,39,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,15,conta critica / dividas com terceiros,moveis e equipamentos,1478,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,44,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 0 < 200 $,12,conta critica / dividas com terceiros,radio ou televisao,3573,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,imovel,23,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro novo,1201,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,3622,>= 1000 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,57,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,15,pgto em atraso no passado,moveis e equipamentos,960,>= 1000 $,< 7 anos,3,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,carro novo,1163,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,44,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,6,pgto em atraso no passado,carro novo,1209,< 100 $,desempregado,4,masc-solteiro,n/há,4,poupança ou seguro de vida,47,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,3077,< 100 $,< 4 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,52,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,3757,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,codevedor,4,n/há,62,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1418,>= 100 < 500 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,35,n/há,aluguel,1,empregado-semformacao-residente,1,não,não,1
+n/há,6,pgto em dia neste banco (em aberto),carro novo,3518,< 100 $,< 4 anos,2,masc-solteiro,garantidor,3,poupança ou seguro de vida,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,1934,< 100 $,>= 7 anos,2,masc-solteiro,n/há,2,n/há,26,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,27,nenhum/pgto em dia,negocios,8318,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,n/há,42,n/há,gratuita,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,1237,>= 100 < 500 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,368,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,38,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro novo,2122,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,39,n/há,aluguel,2,empregado-semformacao-residente,2,não,não,1
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,2996,n/há,< 4 anos,2,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,20,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,9034,>= 100 < 500 $,< 1 ano,4,masc-solteiro,codevedor,1,n/há,29,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,moveis e equipamentos,1585,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,40,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),radio ou televisao,1301,< 100 $,>= 7 anos,4,masc-casadoouviuvo,garantidor,2,imovel,32,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 200 $,6,conta critica / dividas com terceiros,carro novo,1323,>= 100 < 500 $,>= 7 anos,2,masc-divorciado,n/há,4,carro ou outros-quitado,28,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,3123,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,36,pgto em dia neste banco (em aberto),carro usado,5493,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,n/há,42,n/há,gratuita,1,empregado-formadoouservidorpublico,2,não,sim,1
+>= 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1126,>= 100 < 500 $,>= 7 anos,2,masc-divorciado,n/há,4,imovel,49,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,radio ou televisao,1216,>= 100 < 500 $,< 1 ano,4,masc-solteiro,n/há,4,n/há,38,banco,própria,2,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,1207,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1309,n/há,< 4 anos,4,masc-solteiro,garantidor,4,poupança ou seguro de vida,27,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 200 $,15,conta critica / dividas com terceiros,carro usado,2360,>= 500 < 1000 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,36,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,15,pgto em dia neste banco (quitado),carro novo,6850,>= 100 < 500 $,desempregado,1,masc-solteiro,n/há,2,poupança ou seguro de vida,34,n/há,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1413,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,39,pgto em dia neste banco (em aberto),carro usado,8588,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,45,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,759,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,36,pgto em dia neste banco (em aberto),carro usado,4686,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,n/há,32,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,15,pgto em dia neste banco (em aberto),negocios,2687,< 100 $,< 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,pgto em atraso no passado,radio ou televisao,585,< 100 $,< 4 anos,4,masc-casadoouviuvo,codevedor,4,imovel,20,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,2255,n/há,< 1 ano,4,masc-solteiro,n/há,1,poupança ou seguro de vida,54,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,conta critica / dividas com terceiros,carro novo,609,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,37,n/há,própria,2,empregado-formadoouservidorpublico,1,não,não,1
+< 0 $,6,conta critica / dividas com terceiros,carro novo,1361,< 100 $,< 1 ano,2,masc-solteiro,n/há,4,imovel,40,n/há,própria,1,empregado-semformacao-residente,2,não,não,1
+n/há,36,conta critica / dividas com terceiros,moveis e equipamentos,7127,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,6,pgto em dia neste banco (em aberto),carro novo,1203,>= 100 < 500 $,>= 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,43,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,700,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,36,n/há,gratuita,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,reparos,5507,< 100 $,>= 7 anos,3,masc-solteiro,n/há,4,n/há,44,n/há,gratuita,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,3190,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,imovel,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,48,nenhum/pgto em dia,moveis e equipamentos,7119,< 100 $,< 4 anos,3,masc-solteiro,n/há,4,n/há,53,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),carro usado,3488,>= 100 < 500 $,< 7 anos,3,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),radio ou televisao,1113,< 100 $,< 4 anos,4,femi-divorciadaoucasada,garantidor,4,imovel,26,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,26,pgto em dia neste banco (em aberto),carro usado,7966,< 100 $,< 1 ano,2,masc-solteiro,n/há,3,carro ou outros-quitado,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,conta critica / dividas com terceiros,educacao,1532,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,31,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,4,conta critica / dividas com terceiros,radio ou televisao,1503,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,imovel,42,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),radio ou televisao,2302,< 100 $,< 4 anos,4,masc-divorciado,n/há,4,carro ou outros-quitado,31,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,6,pgto em dia neste banco (em aberto),carro novo,662,< 100 $,< 1 ano,3,masc-solteiro,n/há,4,imovel,41,n/há,própria,1,empregado-semformacao-residente,2,sim,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),educacao,2273,< 100 $,< 7 anos,3,masc-solteiro,n/há,1,carro ou outros-quitado,32,n/há,própria,2,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),carro novo,2631,>= 100 < 500 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,28,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,12,pgto em atraso no passado,carro usado,1503,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,4,imovel,41,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1311,>= 100 < 500 $,< 7 anos,4,masc-casadoouviuvo,n/há,3,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,3105,n/há,< 1 ano,4,masc-solteiro,n/há,2,carro ou outros-quitado,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,21,conta critica / dividas com terceiros,educacao,2319,< 100 $,< 1 ano,2,masc-divorciado,n/há,1,carro ou outros-quitado,33,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,6,pgto em dia neste banco (em aberto),carro novo,1374,n/há,desempregado,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,75,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,moveis e equipamentos,3612,< 100 $,>= 7 anos,3,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,37,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,48,pgto em dia neste banco (em aberto),carro novo,7763,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,42,banco,gratuita,1,empresario-gerente-altaqualificacao,1,não,sim,2
+>= 200 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,3049,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,45,loja,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1534,< 100 $,< 1 ano,1,masc-casadoouviuvo,n/há,1,imovel,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em atraso no passado,carro novo,2032,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,60,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,6350,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,31,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2864,< 100 $,< 4 anos,2,masc-solteiro,n/há,1,imovel,34,n/há,própria,1,empregado-semformacao-residente,2,não,sim,2
+n/há,12,conta critica / dividas com terceiros,carro novo,1255,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,61,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,24,pgto em atraso no passado,carro novo,1333,< 100 $,desempregado,4,masc-solteiro,n/há,2,imovel,43,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,24,conta critica / dividas com terceiros,carro novo,2022,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,37,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1552,< 100 $,< 7 anos,3,masc-solteiro,n/há,1,carro ou outros-quitado,32,banco,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,12,pgto em dia neste banco (quitado),radio ou televisao,626,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,imovel,24,banco,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,48,conta critica / dividas com terceiros,carro usado,8858,n/há,< 7 anos,2,masc-solteiro,n/há,1,n/há,35,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,reparos,996,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em dia neste banco (quitado),radio ou televisao,1750,>= 500 < 1000 $,>= 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,45,banco,própria,1,empregado-semformacao-residente,2,não,sim,1
+< 0 $,48,pgto em dia neste banco (em aberto),radio ou televisao,6999,< 100 $,< 7 anos,1,masc-casadoouviuvo,garantidor,1,imovel,34,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro novo,1995,>= 100 < 500 $,< 1 ano,4,masc-solteiro,n/há,1,carro ou outros-quitado,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),educacao,1199,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,67,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1331,< 100 $,< 1 ano,2,masc-solteiro,n/há,1,carro ou outros-quitado,22,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,18,nenhum/pgto em dia,carro novo,2278,>= 100 < 500 $,< 1 ano,3,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,21,nenhum/pgto em dia,carro novo,5003,n/há,< 4 anos,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,29,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,24,pgto em dia neste banco (quitado),moveis e equipamentos,3552,< 100 $,< 7 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,27,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,18,conta critica / dividas com terceiros,moveis e equipamentos,1928,< 100 $,< 1 ano,2,masc-solteiro,n/há,2,imovel,31,n/há,própria,2,empregado-semformacao-residente,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro usado,2964,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,49,banco,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),radio ou televisao,1546,< 100 $,< 7 anos,4,masc-solteiro,garantidor,4,carro ou outros-quitado,24,banco,aluguel,1,empregado-semformacao-residente,1,não,sim,2
+>= 200 $,6,pgto em atraso no passado,radio ou televisao,683,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,29,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),carro novo,12389,n/há,< 4 anos,1,masc-solteiro,n/há,4,n/há,37,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,24,pgto em atraso no passado,negocios,4712,n/há,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,37,banco,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,radio ou televisao,1553,>= 100 < 500 $,< 7 anos,3,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,1372,< 100 $,< 7 anos,2,masc-divorciado,n/há,3,carro ou outros-quitado,36,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2578,>= 1000 $,>= 7 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),radio ou televisao,3979,n/há,< 7 anos,4,masc-solteiro,n/há,1,carro ou outros-quitado,41,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,48,pgto em dia neste banco (em aberto),radio ou televisao,6758,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,31,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3234,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,aluguel,1,empregado-semformacao-residente,1,sim,sim,2
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,5954,< 100 $,< 7 anos,3,masc-solteiro,codevedor,2,carro ou outros-quitado,38,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro usado,5433,n/há,desempregado,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,26,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),negocios,806,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,22,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1082,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,27,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,15,conta critica / dividas com terceiros,moveis e equipamentos,2788,< 100 $,< 7 anos,2,femi-divorciadaoucasada,codevedor,3,carro ou outros-quitado,24,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,2930,< 100 $,< 7 anos,2,femi-divorciadaoucasada,n/há,1,imovel,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,educacao,1927,n/há,< 4 anos,3,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,33,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,36,conta critica / dividas com terceiros,carro novo,2820,< 100 $,< 1 ano,4,masc-divorciado,n/há,4,carro ou outros-quitado,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),reciclagem profissional,937,< 100 $,< 1 ano,4,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,27,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,carro novo,1056,< 100 $,>= 7 anos,3,masc-solteiro,garantidor,3,imovel,30,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,conta critica / dividas com terceiros,carro novo,3124,< 100 $,< 1 ano,1,masc-solteiro,n/há,3,imovel,49,banco,própria,2,empregado-semformacao-residente,2,não,sim,1
+n/há,9,pgto em dia neste banco (em aberto),moveis e equipamentos,1388,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,imovel,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),reparos,2384,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,n/há,33,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro novo,2133,n/há,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,n/há,52,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,2039,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,4,imovel,20,banco,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,9,conta critica / dividas com terceiros,carro novo,2799,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,36,n/há,aluguel,2,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1289,< 100 $,< 4 anos,4,masc-solteiro,garantidor,1,poupança ou seguro de vida,21,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),eletrodomesticos,1217,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,3,imovel,47,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,2
+< 0 $,12,conta critica / dividas com terceiros,moveis e equipamentos,2246,< 100 $,>= 7 anos,3,masc-solteiro,n/há,3,poupança ou seguro de vida,60,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,12,conta critica / dividas com terceiros,radio ou televisao,385,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,3,imovel,58,n/há,própria,4,empregado-semformacao-residente,1,sim,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,carro novo,1965,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,42,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,21,pgto em dia neste banco (em aberto),negocios,1572,>= 1000 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,imovel,36,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro novo,2718,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,20,n/há,aluguel,1,empregado-semformacao-residente,1,sim,sim,2
+< 0 $,24,pgto em dia neste banco (quitado),outros,1358,n/há,>= 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,40,loja,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (quitado),carro novo,931,>= 100 < 500 $,< 1 ano,1,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,32,loja,própria,1,empregado-semformacao-residente,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,1442,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,nenhum/pgto em dia,negocios,4241,< 100 $,< 4 anos,1,masc-solteiro,n/há,4,imovel,36,n/há,própria,3,empregado-semformacao-residente,1,sim,sim,2
+n/há,18,conta critica / dividas com terceiros,carro novo,2775,< 100 $,< 7 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,31,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em atraso no passado,negocios,3863,< 100 $,< 4 anos,1,masc-solteiro,n/há,2,n/há,32,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,7,pgto em dia neste banco (em aberto),radio ou televisao,2329,< 100 $,< 1 ano,1,femi-divorciadaoucasada,garantidor,1,imovel,45,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),moveis e equipamentos,918,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,30,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (quitado),educacao,1837,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,4,n/há,34,banco,gratuita,1,empregado-semformacao-residente,1,não,sim,2
+n/há,36,pgto em dia neste banco (em aberto),moveis e equipamentos,3349,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,28,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 200 $,10,pgto em dia neste banco (em aberto),moveis e equipamentos,1275,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),moveis e equipamentos,2828,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,22,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,conta critica / dividas com terceiros,negocios,4526,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,74,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),radio ou televisao,2671,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,codevedor,4,n/há,50,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,2051,< 100 $,< 1 ano,4,masc-solteiro,n/há,1,imovel,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),carro usado,1300,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,45,banco,gratuita,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),eletrodomesticos,741,>= 100 < 500 $,desempregado,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,10,pgto em dia neste banco (em aberto),carro novo,1240,>= 100 < 500 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,n/há,48,n/há,gratuita,1,empregado-semformacao-residente,2,não,sim,2
+< 0 $,21,pgto em dia neste banco (em aberto),radio ou televisao,3357,>= 1000 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,29,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),carro usado,3632,< 100 $,< 4 anos,1,femi-divorciadaoucasada,garantidor,4,carro ou outros-quitado,22,banco,aluguel,1,empregado-formadoouservidorpublico,1,não,não,1
+n/há,18,pgto em atraso no passado,moveis e equipamentos,1808,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,1,imovel,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,48,nenhum/pgto em dia,negocios,12204,n/há,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,48,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,60,pgto em atraso no passado,radio ou televisao,9157,n/há,< 4 anos,2,masc-solteiro,n/há,2,n/há,27,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,6,conta critica / dividas com terceiros,carro novo,3676,< 100 $,< 4 anos,1,masc-solteiro,n/há,3,imovel,37,n/há,aluguel,3,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,3441,>= 100 < 500 $,< 4 anos,2,femi-divorciadaoucasada,codevedor,4,carro ou outros-quitado,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro novo,640,< 100 $,< 4 anos,4,masc-divorciado,n/há,2,imovel,49,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,21,conta critica / dividas com terceiros,negocios,3652,< 100 $,< 7 anos,2,masc-solteiro,n/há,3,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,carro novo,1530,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,32,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,48,pgto em dia neste banco (em aberto),negocios,3914,n/há,< 4 anos,4,masc-divorciado,n/há,2,imovel,38,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1858,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,2600,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,65,n/há,gratuita,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,15,pgto em dia neste banco (em aberto),radio ou televisao,1979,n/há,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,6,pgto em dia neste banco (em aberto),moveis e equipamentos,2116,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,41,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (quitado),carro novo,1437,>= 100 < 500 $,< 7 anos,2,masc-solteiro,n/há,3,n/há,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,42,conta critica / dividas com terceiros,moveis e equipamentos,4042,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,36,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,9,pgto em dia neste banco (em aberto),educacao,3832,n/há,>= 7 anos,1,masc-solteiro,n/há,4,imovel,64,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,3660,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (quitado),moveis e equipamentos,1553,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,44,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),radio ou televisao,1444,n/há,< 1 ano,4,masc-solteiro,n/há,1,poupança ou seguro de vida,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,9,pgto em dia neste banco (em aberto),moveis e equipamentos,1980,< 100 $,< 1 ano,2,femi-divorciadaoucasada,codevedor,2,carro ou outros-quitado,19,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro novo,1355,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,25,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,2
+n/há,12,pgto em dia neste banco (em aberto),educacao,1393,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,47,banco,própria,3,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1376,>= 500 < 1000 $,< 7 anos,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,60,pgto em atraso no passado,radio ou televisao,15653,< 100 $,< 7 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,21,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,1493,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,34,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,42,pgto em atraso no passado,radio ou televisao,4370,< 100 $,< 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,26,banco,própria,2,empregado-formadoouservidorpublico,2,sim,sim,2
+< 0 $,18,pgto em dia neste banco (em aberto),educacao,750,< 100 $,desempregado,4,femi-divorciadaoucasada,n/há,1,imovel,27,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,sim,2
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),reparos,1308,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,38,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),educacao,4623,>= 100 < 500 $,< 4 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,40,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,1851,< 100 $,< 7 anos,4,masc-casadoouviuvo,garantidor,2,carro ou outros-quitado,33,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,conta critica / dividas com terceiros,radio ou televisao,1880,< 100 $,< 7 anos,4,masc-casadoouviuvo,n/há,1,poupança ou seguro de vida,32,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,36,pgto em atraso no passado,negocios,7980,n/há,< 1 ano,4,masc-solteiro,n/há,4,carro ou outros-quitado,27,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,30,nenhum/pgto em dia,moveis e equipamentos,4583,< 100 $,< 4 anos,2,masc-divorciado,garantidor,2,imovel,32,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),carro novo,1386,>= 500 < 1000 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,24,pgto em dia neste banco (em aberto),carro novo,947,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,n/há,38,banco,gratuita,1,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),educacao,684,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,40,n/há,aluguel,1,empregado-semformacao-residente,2,não,sim,2
+< 0 $,48,pgto em dia neste banco (em aberto),educacao,7476,< 100 $,< 7 anos,4,masc-solteiro,n/há,1,n/há,50,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1922,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,37,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,2303,< 100 $,>= 7 anos,4,masc-solteiro,codevedor,1,imovel,45,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,36,pgto em atraso no passado,carro novo,8086,>= 100 < 500 $,>= 7 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,42,n/há,própria,4,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,carro usado,2346,< 100 $,< 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,35,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,14,pgto em dia neste banco (em aberto),carro novo,3973,< 100 $,desempregado,1,masc-solteiro,n/há,4,n/há,22,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,888,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,41,banco,própria,1,empregado-semformacao-residente,2,não,sim,2
+n/há,48,pgto em dia neste banco (em aberto),radio ou televisao,10222,n/há,< 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,37,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,30,nenhum/pgto em dia,negocios,4221,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,moveis e equipamentos,6361,< 100 $,>= 7 anos,2,masc-solteiro,n/há,1,n/há,41,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1297,< 100 $,< 4 anos,3,masc-casadoouviuvo,n/há,4,imovel,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,900,n/há,< 4 anos,4,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,21,pgto em dia neste banco (em aberto),moveis e equipamentos,2241,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,imovel,50,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,6,pgto em atraso no passado,moveis e equipamentos,1050,< 100 $,desempregado,4,masc-solteiro,n/há,1,poupança ou seguro de vida,35,loja,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,6,conta critica / dividas com terceiros,educacao,1047,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,50,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,outros,6314,< 100 $,desempregado,4,masc-solteiro,codevedor,2,n/há,27,banco,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,30,pgto em dia neste banco (quitado),moveis e equipamentos,3496,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,34,loja,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,48,pgto em dia neste banco (quitado),negocios,3609,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,imovel,27,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro novo,4843,< 100 $,>= 7 anos,3,masc-solteiro,codevedor,4,poupança ou seguro de vida,43,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 200 $,30,conta critica / dividas com terceiros,radio ou televisao,3017,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,47,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,negocios,4139,>= 100 < 500 $,< 4 anos,3,masc-solteiro,n/há,3,poupança ou seguro de vida,27,n/há,própria,2,empregado-semformacao-residente,1,sim,sim,1
+n/há,36,pgto em dia neste banco (em aberto),negocios,5742,>= 100 < 500 $,< 7 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,31,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,60,pgto em dia neste banco (em aberto),carro novo,10366,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,42,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,6,conta critica / dividas com terceiros,carro novo,2080,>= 500 < 1000 $,< 4 anos,1,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,21,pgto em atraso no passado,negocios,2580,>= 500 < 1000 $,< 1 ano,4,masc-solteiro,n/há,2,imovel,41,banco,própria,1,empregado-semformacao-residente,2,não,sim,2
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,4530,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,26,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,24,conta critica / dividas com terceiros,moveis e equipamentos,5150,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,72,pgto em dia neste banco (em aberto),radio ou televisao,5595,>= 100 < 500 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,2384,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,64,banco,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,1453,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,1,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em dia neste banco (em aberto),educacao,1538,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,2,n/há,56,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,2279,n/há,< 4 anos,4,masc-solteiro,n/há,4,n/há,37,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,15,pgto em atraso no passado,radio ou televisao,1478,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,3,imovel,33,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,5103,< 100 $,< 1 ano,3,masc-casadoouviuvo,n/há,3,n/há,47,n/há,gratuita,3,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,36,pgto em atraso no passado,negocios,9857,>= 100 < 500 $,< 7 anos,1,masc-solteiro,n/há,3,poupança ou seguro de vida,31,n/há,própria,2,empregado-semformacao-residente,2,sim,sim,1
+n/há,60,pgto em dia neste banco (em aberto),carro novo,6527,n/há,< 4 anos,4,masc-solteiro,n/há,4,n/há,34,n/há,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 200 $,10,conta critica / dividas com terceiros,radio ou televisao,1347,n/há,< 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,36,pgto em atraso no passado,carro novo,2862,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,3,n/há,30,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,9,pgto em dia neste banco (em aberto),radio ou televisao,2753,>= 100 < 500 $,>= 7 anos,3,masc-solteiro,codevedor,4,carro ou outros-quitado,35,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,3651,>= 1000 $,< 4 anos,1,masc-solteiro,n/há,3,poupança ou seguro de vida,31,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,15,conta critica / dividas com terceiros,moveis e equipamentos,975,< 100 $,< 4 anos,2,masc-divorciado,n/há,3,poupança ou seguro de vida,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),reparos,2631,>= 100 < 500 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,imovel,25,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,2896,>= 100 < 500 $,< 1 ano,2,masc-solteiro,n/há,1,carro ou outros-quitado,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,conta critica / dividas com terceiros,carro novo,4716,n/há,< 1 ano,1,masc-solteiro,n/há,3,imovel,44,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,2284,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,6,pgto em dia neste banco (em aberto),carro usado,1236,>= 500 < 1000 $,< 4 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,50,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1103,< 100 $,< 7 anos,4,masc-solteiro,garantidor,3,imovel,29,n/há,própria,2,empregado-formadoouservidorpublico,1,não,não,1
+n/há,12,conta critica / dividas com terceiros,carro novo,926,< 100 $,desempregado,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,38,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,1800,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,24,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,15,pgto em dia neste banco (em aberto),educacao,1905,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,40,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1123,>= 500 < 1000 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,29,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,2
+< 0 $,48,conta critica / dividas com terceiros,carro usado,6331,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,46,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1377,>= 100 < 500 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,n/há,47,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,30,pgto em atraso no passado,negocios,2503,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,41,loja,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,27,pgto em dia neste banco (em aberto),negocios,2528,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,32,n/há,própria,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,15,pgto em dia neste banco (em aberto),carro novo,5324,>= 500 < 1000 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,n/há,35,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),carro novo,6560,>= 100 < 500 $,< 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,nenhum/pgto em dia,moveis e equipamentos,2969,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,25,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1206,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,imovel,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,2118,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,37,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,629,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,32,banco,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,6,pgto em dia neste banco (quitado),educacao,1198,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,n/há,35,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,21,pgto em dia neste banco (em aberto),carro usado,2476,n/há,>= 7 anos,4,masc-solteiro,n/há,4,imovel,46,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,9,conta critica / dividas com terceiros,radio ou televisao,1138,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,25,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,60,pgto em dia neste banco (em aberto),carro novo,14027,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,n/há,27,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,30,conta critica / dividas com terceiros,carro usado,7596,n/há,>= 7 anos,1,masc-solteiro,n/há,4,carro ou outros-quitado,63,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,3077,n/há,>= 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,40,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,18,pgto em dia neste banco (em aberto),radio ou televisao,1505,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,n/há,32,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,24,conta critica / dividas com terceiros,radio ou televisao,3148,n/há,< 4 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,31,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,20,nenhum/pgto em dia,carro usado,6148,>= 100 < 500 $,>= 7 anos,3,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,31,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,9,nenhum/pgto em dia,radio ou televisao,1337,< 100 $,< 1 ano,4,masc-solteiro,n/há,2,carro ou outros-quitado,34,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (quitado),educacao,433,>= 1000 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,24,banco,aluguel,1,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,1228,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,imovel,24,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,790,>= 500 < 1000 $,< 4 anos,4,femi-divorciadaoucasada,n/há,3,imovel,66,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,27,pgto em dia neste banco (em aberto),carro novo,2570,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,3,imovel,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,6,conta critica / dividas com terceiros,carro novo,250,>= 1000 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,imovel,41,banco,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,15,conta critica / dividas com terceiros,radio ou televisao,1316,>= 500 < 1000 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,47,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,1882,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,25,banco,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,48,pgto em dia neste banco (quitado),negocios,6416,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,3,n/há,59,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,24,conta critica / dividas com terceiros,negocios,1275,>= 1000 $,< 4 anos,2,masc-divorciado,n/há,4,imovel,36,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,24,pgto em atraso no passado,radio ou televisao,6403,< 100 $,< 1 ano,1,masc-solteiro,n/há,2,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1987,< 100 $,< 4 anos,2,masc-solteiro,n/há,4,imovel,21,n/há,aluguel,1,empregado-semformacao-residente,2,não,sim,2
+>= 0 < 200 $,8,pgto em dia neste banco (em aberto),radio ou televisao,760,< 100 $,< 7 anos,4,femi-divorciadaoucasada,garantidor,2,imovel,44,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro usado,2603,>= 1000 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,28,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,4,conta critica / dividas com terceiros,carro novo,3380,< 100 $,< 7 anos,1,femi-divorciadaoucasada,n/há,1,imovel,37,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,36,pgto em dia neste banco (quitado),eletrodomesticos,3990,n/há,< 1 ano,3,femi-divorciadaoucasada,n/há,2,n/há,29,banco,própria,1,desempregado-semformacao-naoresidente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro usado,11560,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,aluguel,2,empresario-gerente-altaqualificacao,1,não,sim,2
+< 0 $,18,pgto em dia neste banco (em aberto),carro novo,4380,>= 100 < 500 $,< 4 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,35,n/há,própria,1,empregado-semformacao-residente,2,sim,sim,1
+n/há,6,conta critica / dividas com terceiros,carro novo,6761,< 100 $,< 7 anos,1,masc-solteiro,n/há,3,n/há,45,n/há,própria,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+>= 0 < 200 $,30,nenhum/pgto em dia,negocios,4280,>= 100 < 500 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,26,n/há,aluguel,2,empregado-semformacao-residente,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (quitado),carro novo,2325,>= 100 < 500 $,< 7 anos,2,masc-solteiro,n/há,3,carro ou outros-quitado,32,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,10,pgto em dia neste banco (quitado),radio ou televisao,1048,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,23,loja,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,21,pgto em dia neste banco (em aberto),radio ou televisao,3160,n/há,>= 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,41,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),moveis e equipamentos,2483,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,4,imovel,22,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,39,conta critica / dividas com terceiros,moveis e equipamentos,14179,n/há,< 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,30,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,13,conta critica / dividas com terceiros,negocios,1797,< 100 $,< 1 ano,3,masc-solteiro,n/há,1,poupança ou seguro de vida,28,banco,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),carro novo,2511,< 100 $,desempregado,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,1274,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,1,imovel,37,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,21,pgto em dia neste banco (em aberto),carro usado,5248,n/há,< 4 anos,1,masc-solteiro,n/há,3,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),carro usado,3029,< 100 $,< 7 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,6,pgto em dia neste banco (em aberto),moveis e equipamentos,428,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,1,poupança ou seguro de vida,49,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),carro novo,976,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,23,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),negocios,841,>= 100 < 500 $,< 7 anos,2,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,5771,< 100 $,< 7 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,pgto em atraso no passado,reparos,1555,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,55,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,1285,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,4,n/há,32,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 200 $,6,conta critica / dividas com terceiros,carro novo,1299,< 100 $,< 4 anos,1,masc-solteiro,n/há,1,imovel,74,n/há,própria,3,desempregado-semformacao-naoresidente,2,não,não,1
+>= 200 $,15,conta critica / dividas com terceiros,radio ou televisao,1271,n/há,< 4 anos,3,masc-solteiro,n/há,4,n/há,39,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,24,pgto em dia neste banco (em aberto),carro novo,1393,< 100 $,< 4 anos,2,masc-solteiro,garantidor,2,imovel,31,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro novo,691,< 100 $,>= 7 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,35,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,15,conta critica / dividas com terceiros,carro novo,5045,n/há,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,59,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,conta critica / dividas com terceiros,moveis e equipamentos,2124,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,imovel,24,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,2214,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,24,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,21,conta critica / dividas com terceiros,carro novo,12680,n/há,>= 7 anos,4,masc-solteiro,n/há,4,n/há,30,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,24,conta critica / dividas com terceiros,carro novo,2463,>= 100 < 500 $,< 7 anos,4,masc-casadoouviuvo,n/há,3,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1155,< 100 $,>= 7 anos,3,masc-casadoouviuvo,garantidor,3,imovel,40,banco,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),moveis e equipamentos,3108,< 100 $,< 1 ano,2,masc-divorciado,n/há,4,poupança ou seguro de vida,31,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+n/há,10,pgto em dia neste banco (em aberto),carro usado,2901,n/há,< 1 ano,1,femi-divorciadaoucasada,n/há,4,imovel,31,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,conta critica / dividas com terceiros,moveis e equipamentos,3617,< 100 $,>= 7 anos,1,masc-solteiro,n/há,4,carro ou outros-quitado,28,n/há,aluguel,3,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,1655,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,imovel,63,n/há,própria,2,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro usado,2812,n/há,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,imovel,26,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,36,conta critica / dividas com terceiros,educacao,8065,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,n/há,25,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,21,conta critica / dividas com terceiros,carro usado,3275,< 100 $,>= 7 anos,1,masc-solteiro,n/há,4,carro ou outros-quitado,36,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2223,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,52,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,12,conta critica / dividas com terceiros,carro novo,1480,>= 500 < 1000 $,desempregado,2,masc-solteiro,n/há,4,n/há,66,banco,gratuita,3,desempregado-semformacao-naoresidente,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro novo,1371,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,4,imovel,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,36,conta critica / dividas com terceiros,carro novo,3535,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,37,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,3509,< 100 $,< 7 anos,4,femi-divorciadaoucasada,garantidor,1,imovel,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,conta critica / dividas com terceiros,carro usado,5711,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,38,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),reparos,3872,< 100 $,desempregado,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,67,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,39,conta critica / dividas com terceiros,radio ou televisao,4933,< 100 $,< 7 anos,2,masc-solteiro,garantidor,2,imovel,25,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,conta critica / dividas com terceiros,carro novo,1940,>= 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,60,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,12,nenhum/pgto em dia,reciclagem profissional,1410,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,31,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,836,>= 100 < 500 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,23,banco,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,20,pgto em dia neste banco (em aberto),carro usado,6468,n/há,desempregado,1,masc-divorciado,n/há,4,imovel,60,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,18,pgto em dia neste banco (em aberto),negocios,1941,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,35,n/há,própria,1,empregado-semformacao-residente,1,sim,sim,1
+n/há,22,pgto em dia neste banco (em aberto),radio ou televisao,2675,>= 500 < 1000 $,>= 7 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,40,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,48,conta critica / dividas com terceiros,carro usado,2751,n/há,>= 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,38,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 0 < 200 $,48,pgto em atraso no passado,educacao,6224,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,50,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,40,conta critica / dividas com terceiros,educacao,5998,< 100 $,< 4 anos,4,masc-solteiro,n/há,3,n/há,27,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,21,pgto em dia neste banco (em aberto),negocios,1188,< 100 $,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,39,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),carro usado,6313,n/há,>= 7 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,41,n/há,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,6,conta critica / dividas com terceiros,moveis e equipamentos,1221,n/há,< 4 anos,1,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,2892,< 100 $,>= 7 anos,3,masc-divorciado,n/há,4,n/há,51,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3062,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,3,n/há,32,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,9,pgto em dia neste banco (em aberto),moveis e equipamentos,2301,>= 100 < 500 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),carro usado,7511,n/há,>= 7 anos,1,masc-solteiro,n/há,4,poupança ou seguro de vida,51,n/há,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,2
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,1258,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,22,n/há,aluguel,2,empregado-semformacao-residente,1,não,sim,1
+n/há,24,pgto em atraso no passado,carro novo,717,n/há,>= 7 anos,4,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,54,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),carro novo,1549,n/há,< 1 ano,4,masc-solteiro,n/há,2,imovel,35,n/há,própria,1,desempregado-semformacao-naoresidente,1,não,sim,1
+n/há,24,conta critica / dividas com terceiros,educacao,1597,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,54,n/há,gratuita,2,empregado-formadoouservidorpublico,2,não,sim,1
+>= 0 < 200 $,18,conta critica / dividas com terceiros,radio ou televisao,1795,< 100 $,>= 7 anos,3,femi-divorciadaoucasada,garantidor,4,imovel,48,banco,aluguel,2,empregado-semformacao-residente,1,sim,sim,1
+< 0 $,20,conta critica / dividas com terceiros,moveis e equipamentos,4272,< 100 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,976,n/há,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,35,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,7472,n/há,desempregado,1,femi-divorciadaoucasada,n/há,2,imovel,24,n/há,aluguel,1,desempregado-semformacao-naoresidente,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),carro novo,9271,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,590,< 100 $,< 1 ano,3,masc-casadoouviuvo,n/há,3,imovel,26,n/há,própria,1,empregado-semformacao-residente,1,não,não,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,930,n/há,>= 7 anos,4,masc-solteiro,n/há,4,imovel,65,n/há,própria,4,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,42,pgto em dia neste banco (quitado),carro usado,9283,< 100 $,desempregado,1,masc-solteiro,n/há,2,n/há,55,banco,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,15,nenhum/pgto em dia,carro novo,1778,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,1,imovel,26,n/há,aluguel,2,desempregado-semformacao-naoresidente,1,não,sim,2
+>= 0 < 200 $,8,pgto em dia neste banco (em aberto),negocios,907,< 100 $,< 1 ano,3,masc-casadoouviuvo,n/há,2,imovel,26,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,484,< 100 $,< 7 anos,3,masc-casadoouviuvo,garantidor,3,imovel,28,banco,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,36,conta critica / dividas com terceiros,carro usado,9629,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,24,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,48,pgto em dia neste banco (em aberto),eletrodomesticos,3051,< 100 $,< 4 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,54,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,48,pgto em dia neste banco (em aberto),carro novo,3931,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,n/há,46,n/há,gratuita,1,empregado-formadoouservidorpublico,2,não,sim,2
+>= 0 < 200 $,36,pgto em atraso no passado,carro novo,7432,< 100 $,< 4 anos,2,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,54,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,pgto em dia neste banco (em aberto),eletrodomesticos,1338,>= 500 < 1000 $,< 4 anos,1,masc-divorciado,n/há,4,imovel,62,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,1554,< 100 $,< 7 anos,1,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,24,n/há,aluguel,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),outros,15857,< 100 $,desempregado,2,masc-divorciado,codevedor,3,carro ou outros-quitado,43,n/há,própria,1,empresario-gerente-altaqualificacao,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,1345,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,3,imovel,26,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro novo,1101,< 100 $,< 4 anos,3,masc-casadoouviuvo,n/há,2,imovel,27,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,12,pgto em dia neste banco (em aberto),radio ou televisao,3016,< 100 $,< 4 anos,3,masc-casadoouviuvo,n/há,1,carro ou outros-quitado,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,2712,< 100 $,>= 7 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,41,banco,própria,1,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,8,conta critica / dividas com terceiros,carro novo,731,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,47,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,moveis e equipamentos,3780,< 100 $,< 1 ano,3,masc-divorciado,n/há,2,carro ou outros-quitado,35,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,21,conta critica / dividas com terceiros,carro novo,1602,< 100 $,>= 7 anos,4,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,30,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,conta critica / dividas com terceiros,carro novo,3966,< 100 $,>= 7 anos,1,femi-divorciadaoucasada,n/há,4,imovel,33,banco,aluguel,3,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,18,nenhum/pgto em dia,negocios,4165,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,36,loja,própria,2,empregado-formadoouservidorpublico,2,não,sim,2
+< 0 $,36,pgto em dia neste banco (em aberto),carro usado,8335,n/há,>= 7 anos,3,masc-solteiro,n/há,4,n/há,47,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,48,pgto em atraso no passado,negocios,6681,n/há,< 4 anos,4,masc-solteiro,n/há,4,n/há,38,n/há,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,24,pgto em atraso no passado,negocios,2375,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,44,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),carro novo,1216,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,23,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,45,nenhum/pgto em dia,negocios,11816,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,29,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,5084,n/há,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,42,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,15,pgto em dia neste banco (em aberto),radio ou televisao,2327,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,3,imovel,25,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+< 0 $,12,nenhum/pgto em dia,carro novo,1082,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,48,banco,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,886,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,21,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,4,pgto em dia neste banco (em aberto),moveis e equipamentos,601,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,3,imovel,23,n/há,aluguel,1,empregado-semformacao-residente,2,não,sim,1
+< 0 $,24,conta critica / dividas com terceiros,carro usado,2957,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,63,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,conta critica / dividas com terceiros,radio ou televisao,2611,< 100 $,>= 7 anos,4,masc-casadoouviuvo,codevedor,3,imovel,46,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,5179,< 100 $,< 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,21,pgto em atraso no passado,carro usado,2993,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,28,loja,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,18,pgto em dia neste banco (em aberto),reparos,1943,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,imovel,23,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em dia neste banco (quitado),negocios,1559,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,50,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,18,pgto em dia neste banco (em aberto),moveis e equipamentos,3422,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,47,banco,própria,3,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 0 < 200 $,21,pgto em dia neste banco (em aberto),moveis e equipamentos,3976,n/há,< 7 anos,2,masc-solteiro,n/há,3,carro ou outros-quitado,35,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,18,pgto em dia neste banco (em aberto),carro novo,6761,n/há,< 4 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,68,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),carro novo,1249,< 100 $,< 1 ano,4,masc-casadoouviuvo,n/há,2,imovel,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1364,< 100 $,< 7 anos,3,masc-solteiro,n/há,4,imovel,59,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,709,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,imovel,57,loja,própria,1,empregado-semformacao-residente,1,não,sim,2
+< 0 $,20,conta critica / dividas com terceiros,carro novo,2235,< 100 $,< 4 anos,4,masc-casadoouviuvo,garantidor,2,poupança ou seguro de vida,33,banco,aluguel,2,empregado-formadoouservidorpublico,1,não,não,2
+n/há,24,conta critica / dividas com terceiros,carro usado,4042,n/há,< 7 anos,3,masc-solteiro,n/há,4,poupança ou seguro de vida,43,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,15,conta critica / dividas com terceiros,radio ou televisao,1471,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,35,n/há,gratuita,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,18,pgto em dia neste banco (quitado),carro novo,1442,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,n/há,32,n/há,gratuita,2,empregado-semformacao-residente,2,não,sim,2
+n/há,36,pgto em atraso no passado,carro novo,10875,< 100 $,>= 7 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,45,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,1474,>= 100 < 500 $,< 1 ano,4,masc-casadoouviuvo,n/há,3,imovel,33,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,10,pgto em dia neste banco (em aberto),reciclagem profissional,894,n/há,< 7 anos,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,40,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,15,conta critica / dividas com terceiros,moveis e equipamentos,3343,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,n/há,28,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),carro novo,3959,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,29,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,9,pgto em dia neste banco (em aberto),carro novo,3577,>= 100 < 500 $,< 4 anos,1,masc-solteiro,garantidor,2,imovel,26,n/há,aluguel,1,empregado-formadoouservidorpublico,2,não,não,1
+n/há,24,conta critica / dividas com terceiros,carro usado,5804,>= 1000 $,< 4 anos,4,masc-solteiro,n/há,2,imovel,27,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,pgto em atraso no passado,negocios,2169,< 100 $,< 4 anos,4,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),radio ou televisao,2439,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,imovel,35,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,27,conta critica / dividas com terceiros,moveis e equipamentos,4526,>= 1000 $,< 1 ano,4,masc-solteiro,n/há,2,imovel,32,loja,própria,2,empregado-semformacao-residente,2,sim,sim,1
+n/há,10,pgto em dia neste banco (em aberto),moveis e equipamentos,2210,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,25,banco,aluguel,1,empregado-semformacao-residente,1,não,sim,2
+n/há,15,pgto em dia neste banco (em aberto),moveis e equipamentos,2221,>= 500 < 1000 $,< 4 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,20,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,2389,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,27,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,3331,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,42,loja,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em dia neste banco (em aberto),negocios,7409,n/há,>= 7 anos,3,masc-solteiro,n/há,2,poupança ou seguro de vida,37,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,652,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,24,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,36,pgto em atraso no passado,moveis e equipamentos,7678,>= 500 < 1000 $,< 7 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,40,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,6,conta critica / dividas com terceiros,carro novo,1343,< 100 $,>= 7 anos,1,masc-solteiro,n/há,4,imovel,46,n/há,própria,2,empregado-formadoouservidorpublico,2,não,não,1
+< 0 $,24,conta critica / dividas com terceiros,negocios,1382,>= 100 < 500 $,< 7 anos,4,masc-solteiro,n/há,1,imovel,26,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,15,pgto em dia neste banco (em aberto),eletrodomesticos,874,n/há,< 1 ano,4,femi-divorciadaoucasada,n/há,1,imovel,24,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),moveis e equipamentos,3590,< 100 $,< 4 anos,2,masc-solteiro,codevedor,2,poupança ou seguro de vida,29,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,11,conta critica / dividas com terceiros,carro novo,1322,>= 1000 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,40,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (quitado),radio ou televisao,1940,< 100 $,< 1 ano,3,masc-solteiro,codevedor,4,n/há,36,banco,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,36,pgto em dia neste banco (em aberto),radio ou televisao,3595,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,28,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,9,pgto em dia neste banco (em aberto),carro novo,1422,< 100 $,< 1 ano,3,masc-solteiro,n/há,2,n/há,27,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,6742,n/há,< 7 anos,2,masc-solteiro,n/há,3,poupança ou seguro de vida,36,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro usado,7814,< 100 $,< 7 anos,3,masc-solteiro,n/há,3,carro ou outros-quitado,38,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro usado,9277,n/há,< 4 anos,2,masc-divorciado,n/há,4,n/há,48,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 0 < 200 $,30,conta critica / dividas com terceiros,carro novo,2181,n/há,>= 7 anos,4,masc-solteiro,n/há,4,imovel,36,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,1098,< 100 $,desempregado,4,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,65,n/há,própria,2,desempregado-semformacao-naoresidente,1,não,sim,1
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,4057,< 100 $,< 7 anos,3,masc-divorciado,n/há,3,carro ou outros-quitado,43,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),educacao,795,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,53,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,24,conta critica / dividas com terceiros,negocios,2825,n/há,< 7 anos,4,masc-solteiro,n/há,3,n/há,34,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+>= 0 < 200 $,48,pgto em dia neste banco (em aberto),negocios,15672,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,carro ou outros-quitado,23,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,36,conta critica / dividas com terceiros,carro novo,6614,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,34,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,28,pgto em dia neste banco (quitado),carro usado,7824,n/há,< 1 ano,3,masc-solteiro,garantidor,4,imovel,40,banco,aluguel,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,27,conta critica / dividas com terceiros,negocios,2442,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,43,loja,própria,4,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,15,conta critica / dividas com terceiros,radio ou televisao,1829,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,46,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,conta critica / dividas com terceiros,carro novo,2171,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,38,banco,própria,2,empregado-semformacao-residente,1,não,não,1
+>= 0 < 200 $,36,conta critica / dividas com terceiros,carro usado,5800,< 100 $,< 4 anos,3,masc-solteiro,n/há,4,carro ou outros-quitado,34,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,18,conta critica / dividas com terceiros,radio ou televisao,1169,n/há,< 4 anos,4,masc-solteiro,n/há,3,poupança ou seguro de vida,29,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,36,pgto em atraso no passado,carro usado,8947,n/há,< 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,31,loja,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+< 0 $,21,pgto em dia neste banco (em aberto),radio ou televisao,2606,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,28,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,conta critica / dividas com terceiros,moveis e equipamentos,1592,>= 1000 $,< 7 anos,3,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,35,n/há,própria,1,empregado-formadoouservidorpublico,1,não,não,1
+n/há,15,pgto em dia neste banco (em aberto),moveis e equipamentos,2186,n/há,< 7 anos,1,femi-divorciadaoucasada,n/há,4,imovel,33,banco,aluguel,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),moveis e equipamentos,4153,< 100 $,< 4 anos,2,masc-solteiro,codevedor,3,carro ou outros-quitado,42,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,16,conta critica / dividas com terceiros,carro novo,2625,< 100 $,>= 7 anos,2,masc-solteiro,garantidor,4,poupança ou seguro de vida,43,banco,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,20,conta critica / dividas com terceiros,carro novo,3485,n/há,< 1 ano,2,masc-divorciado,n/há,4,imovel,44,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,36,conta critica / dividas com terceiros,carro usado,10477,n/há,>= 7 anos,2,masc-solteiro,n/há,4,n/há,42,n/há,gratuita,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),radio ou televisao,1386,n/há,< 4 anos,4,masc-casadoouviuvo,n/há,2,imovel,40,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,1278,< 100 $,>= 7 anos,4,masc-solteiro,n/há,1,imovel,36,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1107,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,imovel,20,n/há,aluguel,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+< 0 $,21,pgto em dia neste banco (em aberto),carro novo,3763,n/há,< 7 anos,2,masc-solteiro,codevedor,2,imovel,24,n/há,própria,1,empregado-semformacao-residente,1,não,não,1
+>= 0 < 200 $,36,pgto em dia neste banco (em aberto),educacao,3711,n/há,< 4 anos,2,masc-casadoouviuvo,n/há,2,carro ou outros-quitado,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em atraso no passado,carro usado,3594,< 100 $,< 1 ano,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,46,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),carro novo,3195,n/há,< 4 anos,1,femi-divorciadaoucasada,n/há,2,imovel,33,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+n/há,36,pgto em atraso no passado,radio ou televisao,4454,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,4,imovel,34,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,moveis e equipamentos,4736,< 100 $,< 1 ano,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,25,banco,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,30,pgto em dia neste banco (em aberto),radio ou televisao,2991,n/há,>= 7 anos,2,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,25,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,11,pgto em dia neste banco (em aberto),negocios,2142,>= 1000 $,>= 7 anos,1,masc-divorciado,n/há,2,imovel,28,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),negocios,3161,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,31,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,48,nenhum/pgto em dia,outros,18424,< 100 $,< 4 anos,1,femi-divorciadaoucasada,n/há,2,poupança ou seguro de vida,32,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,não,2
+n/há,10,pgto em dia neste banco (em aberto),carro usado,2848,>= 100 < 500 $,< 4 anos,1,masc-solteiro,codevedor,2,imovel,32,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,1
+< 0 $,6,pgto em dia neste banco (em aberto),carro novo,14896,< 100 $,>= 7 anos,1,masc-solteiro,n/há,4,n/há,68,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,2359,>= 100 < 500 $,desempregado,1,masc-divorciado,n/há,1,poupança ou seguro de vida,33,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3345,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,39,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+n/há,18,conta critica / dividas com terceiros,moveis e equipamentos,1817,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,n/há,28,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,48,pgto em atraso no passado,radio ou televisao,12749,>= 500 < 1000 $,< 7 anos,4,masc-solteiro,n/há,1,carro ou outros-quitado,37,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1366,< 100 $,< 1 ano,3,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,22,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,12,pgto em dia neste banco (em aberto),carro novo,2002,< 100 $,< 7 anos,3,masc-solteiro,n/há,4,poupança ou seguro de vida,30,n/há,aluguel,1,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),moveis e equipamentos,6872,< 100 $,< 1 ano,2,masc-divorciado,n/há,1,poupança ou seguro de vida,55,banco,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (quitado),carro novo,697,< 100 $,< 1 ano,4,masc-solteiro,n/há,2,carro ou outros-quitado,46,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+< 0 $,18,conta critica / dividas com terceiros,moveis e equipamentos,1049,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,21,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,48,pgto em dia neste banco (em aberto),carro usado,10297,< 100 $,< 7 anos,4,masc-solteiro,n/há,4,n/há,39,loja,gratuita,3,empregado-formadoouservidorpublico,2,sim,sim,2
+n/há,30,pgto em dia neste banco (em aberto),radio ou televisao,1867,n/há,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,58,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,12,pgto em atraso no passado,carro novo,1344,< 100 $,< 4 anos,4,masc-solteiro,n/há,2,imovel,43,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,1747,< 100 $,< 1 ano,4,masc-solteiro,codevedor,1,poupança ou seguro de vida,24,n/há,própria,1,empregado-semformacao-residente,1,não,não,1
+>= 0 < 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,1670,< 100 $,< 1 ano,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,22,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,2
+n/há,9,conta critica / dividas com terceiros,carro novo,1224,< 100 $,< 4 anos,3,masc-solteiro,n/há,1,imovel,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,radio ou televisao,522,>= 500 < 1000 $,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,42,n/há,própria,2,empregado-formadoouservidorpublico,2,sim,sim,1
+< 0 $,12,pgto em dia neste banco (em aberto),radio ou televisao,1498,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,23,banco,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,30,pgto em atraso no passado,radio ou televisao,1919,>= 100 < 500 $,< 1 ano,4,masc-solteiro,n/há,3,n/há,30,loja,própria,2,empresario-gerente-altaqualificacao,1,não,sim,2
+>= 200 $,9,pgto em dia neste banco (em aberto),radio ou televisao,745,< 100 $,< 4 anos,3,femi-divorciadaoucasada,n/há,2,imovel,28,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,2063,< 100 $,< 1 ano,4,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,30,n/há,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,60,pgto em dia neste banco (em aberto),educacao,6288,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,42,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,24,conta critica / dividas com terceiros,carro usado,6842,n/há,< 4 anos,2,masc-solteiro,n/há,4,poupança ou seguro de vida,46,n/há,própria,2,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),carro novo,3527,n/há,< 1 ano,2,masc-solteiro,n/há,3,poupança ou seguro de vida,45,n/há,própria,1,empresario-gerente-altaqualificacao,2,sim,sim,1
+n/há,10,pgto em dia neste banco (em aberto),carro novo,1546,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,imovel,31,n/há,própria,1,empregado-semformacao-residente,2,não,não,1
+n/há,24,pgto em dia neste banco (em aberto),moveis e equipamentos,929,n/há,< 7 anos,4,masc-solteiro,n/há,2,carro ou outros-quitado,31,loja,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,4,conta critica / dividas com terceiros,carro novo,1455,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,imovel,42,n/há,própria,3,empregado-semformacao-residente,2,não,sim,1
+< 0 $,15,pgto em dia neste banco (em aberto),moveis e equipamentos,1845,< 100 $,< 1 ano,4,femi-divorciadaoucasada,garantidor,1,poupança ou seguro de vida,46,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,48,nenhum/pgto em dia,carro novo,8358,>= 500 < 1000 $,< 1 ano,1,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,30,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),moveis e equipamentos,3349,>= 500 < 1000 $,< 1 ano,4,masc-solteiro,n/há,4,n/há,30,n/há,gratuita,1,empregado-formadoouservidorpublico,2,sim,sim,2
+n/há,12,pgto em dia neste banco (em aberto),carro novo,2859,n/há,desempregado,4,masc-solteiro,n/há,4,n/há,38,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,18,pgto em dia neste banco (em aberto),moveis e equipamentos,1533,< 100 $,< 1 ano,4,masc-casadoouviuvo,codevedor,1,poupança ou seguro de vida,43,n/há,própria,1,empregado-semformacao-residente,2,não,sim,2
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,3621,>= 100 < 500 $,>= 7 anos,2,masc-solteiro,n/há,4,carro ou outros-quitado,31,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,18,conta critica / dividas com terceiros,negocios,3590,< 100 $,desempregado,3,masc-casadoouviuvo,n/há,3,carro ou outros-quitado,40,n/há,própria,3,desempregado-semformacao-naoresidente,2,sim,sim,1
+< 0 $,36,pgto em atraso no passado,negocios,2145,< 100 $,< 7 anos,2,masc-solteiro,n/há,1,carro ou outros-quitado,24,n/há,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),carro usado,4113,>= 500 < 1000 $,< 1 ano,3,femi-divorciadaoucasada,n/há,4,carro ou outros-quitado,28,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,36,pgto em dia neste banco (em aberto),moveis e equipamentos,10974,< 100 $,desempregado,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,26,n/há,própria,2,empresario-gerente-altaqualificacao,1,sim,sim,2
+< 0 $,12,pgto em dia neste banco (em aberto),carro novo,1893,< 100 $,< 4 anos,4,femi-divorciadaoucasada,garantidor,4,poupança ou seguro de vida,29,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,24,conta critica / dividas com terceiros,radio ou televisao,1231,>= 1000 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,4,poupança ou seguro de vida,57,n/há,aluguel,2,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 200 $,30,conta critica / dividas com terceiros,radio ou televisao,3656,n/há,>= 7 anos,4,masc-solteiro,n/há,4,poupança ou seguro de vida,49,loja,própria,2,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,9,conta critica / dividas com terceiros,radio ou televisao,1154,< 100 $,>= 7 anos,2,masc-solteiro,n/há,4,imovel,37,n/há,própria,3,empregado-semformacao-residente,1,não,sim,1
+< 0 $,28,pgto em dia neste banco (em aberto),carro novo,4006,< 100 $,< 4 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,45,n/há,própria,1,empregado-semformacao-residente,1,não,sim,2
+>= 0 < 200 $,24,pgto em dia neste banco (em aberto),moveis e equipamentos,3069,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,4,n/há,30,n/há,gratuita,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,6,conta critica / dividas com terceiros,radio ou televisao,1740,< 100 $,>= 7 anos,2,masc-casadoouviuvo,n/há,2,imovel,30,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,21,pgto em atraso no passado,carro novo,2353,< 100 $,< 4 anos,1,masc-divorciado,n/há,4,poupança ou seguro de vida,47,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,15,pgto em dia neste banco (em aberto),carro novo,3556,n/há,< 4 anos,3,masc-solteiro,n/há,2,n/há,29,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),radio ou televisao,2397,>= 500 < 1000 $,>= 7 anos,3,masc-solteiro,n/há,2,carro ou outros-quitado,35,banco,própria,2,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),reparos,454,< 100 $,< 1 ano,3,masc-casadoouviuvo,n/há,1,poupança ou seguro de vida,22,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,30,pgto em dia neste banco (em aberto),radio ou televisao,1715,n/há,< 4 anos,4,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,26,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,27,conta critica / dividas com terceiros,radio ou televisao,2520,>= 500 < 1000 $,< 4 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,23,n/há,própria,2,empregado-semformacao-residente,1,não,sim,2
+n/há,15,pgto em dia neste banco (em aberto),radio ou televisao,3568,< 100 $,>= 7 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,54,banco,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,42,pgto em dia neste banco (em aberto),radio ou televisao,7166,n/há,< 7 anos,2,masc-casadoouviuvo,n/há,4,poupança ou seguro de vida,29,n/há,aluguel,1,empregado-formadoouservidorpublico,1,sim,sim,1
+< 0 $,11,conta critica / dividas com terceiros,carro novo,3939,< 100 $,< 4 anos,1,masc-solteiro,n/há,2,imovel,40,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+>= 0 < 200 $,15,pgto em dia neste banco (em aberto),reparos,1514,>= 100 < 500 $,< 4 anos,4,masc-solteiro,garantidor,2,imovel,22,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em dia neste banco (em aberto),carro novo,7393,< 100 $,< 4 anos,1,masc-solteiro,n/há,4,poupança ou seguro de vida,43,n/há,própria,1,empregado-semformacao-residente,2,não,sim,1
+< 0 $,24,pgto em dia neste banco (quitado),carro novo,1193,< 100 $,desempregado,1,femi-divorciadaoucasada,codevedor,4,n/há,29,n/há,aluguel,2,desempregado-semformacao-naoresidente,1,não,sim,2
+< 0 $,60,pgto em dia neste banco (em aberto),negocios,7297,< 100 $,>= 7 anos,4,masc-solteiro,codevedor,4,n/há,36,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,30,conta critica / dividas com terceiros,radio ou televisao,2831,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,2,carro ou outros-quitado,33,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+>= 200 $,24,pgto em dia neste banco (em aberto),radio ou televisao,1258,>= 500 < 1000 $,< 4 anos,3,femi-divorciadaoucasada,n/há,3,carro ou outros-quitado,57,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+>= 0 < 200 $,6,pgto em dia neste banco (em aberto),radio ou televisao,753,< 100 $,< 4 anos,2,femi-divorciadaoucasada,garantidor,3,imovel,64,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+>= 0 < 200 $,18,pgto em atraso no passado,negocios,2427,n/há,>= 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,42,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,24,pgto em atraso no passado,carro novo,2538,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,47,n/há,própria,2,empregado-semformacao-residente,2,não,sim,2
+>= 0 < 200 $,15,pgto em dia neste banco (quitado),carro novo,1264,>= 100 < 500 $,< 4 anos,2,masc-casadoouviuvo,n/há,2,poupança ou seguro de vida,25,n/há,aluguel,1,empregado-formadoouservidorpublico,1,não,sim,2
+>= 0 < 200 $,30,conta critica / dividas com terceiros,moveis e equipamentos,8386,< 100 $,< 7 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,49,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,2
+n/há,48,pgto em dia neste banco (em aberto),negocios,4844,< 100 $,desempregado,3,masc-solteiro,n/há,2,carro ou outros-quitado,33,banco,aluguel,1,empresario-gerente-altaqualificacao,1,sim,sim,2
+>= 200 $,21,pgto em dia neste banco (em aberto),carro novo,2923,>= 100 < 500 $,< 4 anos,1,femi-divorciadaoucasada,n/há,1,carro ou outros-quitado,28,banco,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),carro usado,8229,< 100 $,< 4 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,26,n/há,própria,1,empregado-formadoouservidorpublico,2,não,sim,2
+n/há,24,conta critica / dividas com terceiros,moveis e equipamentos,2028,< 100 $,< 7 anos,2,masc-solteiro,n/há,2,poupança ou seguro de vida,30,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,15,conta critica / dividas com terceiros,moveis e equipamentos,1433,< 100 $,< 4 anos,4,femi-divorciadaoucasada,n/há,3,poupança ou seguro de vida,25,n/há,aluguel,2,empregado-formadoouservidorpublico,1,não,sim,1
+>= 200 $,42,nenhum/pgto em dia,negocios,6289,< 100 $,< 1 ano,2,masc-divorciado,n/há,1,poupança ou seguro de vida,33,n/há,própria,2,empregado-formadoouservidorpublico,1,não,sim,1
+n/há,13,pgto em dia neste banco (em aberto),radio ou televisao,1409,>= 100 < 500 $,desempregado,2,femi-divorciadaoucasada,n/há,4,imovel,64,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,24,pgto em dia neste banco (em aberto),carro usado,6579,< 100 $,desempregado,4,masc-solteiro,n/há,2,n/há,29,n/há,gratuita,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+>= 0 < 200 $,24,conta critica / dividas com terceiros,radio ou televisao,1743,< 100 $,>= 7 anos,4,masc-solteiro,n/há,2,poupança ou seguro de vida,48,n/há,própria,2,empregado-semformacao-residente,1,não,sim,1
+n/há,12,conta critica / dividas com terceiros,educacao,3565,n/há,< 1 ano,2,masc-solteiro,n/há,1,poupança ou seguro de vida,37,n/há,própria,2,empregado-semformacao-residente,2,não,sim,1
+n/há,15,pgto em dia neste banco (quitado),radio ou televisao,1569,>= 100 < 500 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,34,banco,própria,1,empregado-semformacao-residente,2,não,sim,1
+< 0 $,18,pgto em dia neste banco (em aberto),radio ou televisao,1936,n/há,< 7 anos,2,masc-casadoouviuvo,n/há,4,carro ou outros-quitado,23,n/há,aluguel,2,empregado-semformacao-residente,1,não,sim,1
+< 0 $,36,pgto em dia neste banco (em aberto),moveis e equipamentos,3959,< 100 $,desempregado,4,masc-solteiro,n/há,3,poupança ou seguro de vida,30,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),carro novo,2390,n/há,>= 7 anos,4,masc-solteiro,n/há,3,carro ou outros-quitado,50,n/há,própria,1,empregado-formadoouservidorpublico,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),moveis e equipamentos,1736,< 100 $,< 7 anos,3,femi-divorciadaoucasada,n/há,4,imovel,31,n/há,própria,1,empregado-semformacao-residente,1,não,sim,1
+< 0 $,30,pgto em dia neste banco (em aberto),carro usado,3857,< 100 $,< 4 anos,4,masc-divorciado,n/há,4,poupança ou seguro de vida,40,n/há,própria,1,empresario-gerente-altaqualificacao,1,sim,sim,1
+n/há,12,pgto em dia neste banco (em aberto),radio ou televisao,804,< 100 $,>= 7 anos,4,masc-solteiro,n/há,4,carro ou outros-quitado,38,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
+< 0 $,45,pgto em dia neste banco (em aberto),radio ou televisao,1845,< 100 $,< 4 anos,4,masc-solteiro,n/há,4,n/há,23,n/há,gratuita,1,empregado-formadoouservidorpublico,1,sim,sim,2
+>= 0 < 200 $,45,conta critica / dividas com terceiros,carro usado,4576,>= 100 < 500 $,desempregado,3,masc-solteiro,n/há,4,carro ou outros-quitado,27,n/há,própria,1,empregado-formadoouservidorpublico,1,não,sim,1
