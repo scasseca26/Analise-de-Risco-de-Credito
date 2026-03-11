@@ -3,7 +3,7 @@
 ![Excel](https://img.shields.io/badge/Ferramenta-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Projeto de Análise de Dados focado na avaliação de risco de crédito, com o objetivo de identificar padrões de inadimplência e apoiar a tomada de decisão na concessão de crédito.
+Projecto de Análise de Dados focado na avaliação de risco de crédito, com o objetivo de identificar padrões de inadimplência e apoiar a tomada de decisão na concessão de crédito.
 
 ---
 
